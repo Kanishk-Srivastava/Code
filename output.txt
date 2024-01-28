@@ -1,1 +1,7 @@
-NoYes
+creating a new instance
+returning instance with unique id: 10
+Current Instance's unique id: 10
+memory location: 0x11f1f40
+returning instance with unique id: 10
+Current Instance's unique id: 10
+memory location: 0x11f1f40
