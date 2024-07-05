@@ -21,9 +21,10 @@ public:
             if(nums[i] == currentElement){
                 occurence++; 
             }
+            if(occurence > (nums.size()/ 2)){
+             return currentElement;
+            }
         }
-        if(occurence > (nums.size()/ 2)){
-            return currentElement;
-        } else return -1;
+         return -1;
     }
 };
