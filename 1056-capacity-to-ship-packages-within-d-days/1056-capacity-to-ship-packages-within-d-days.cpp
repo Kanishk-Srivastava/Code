@@ -1,11 +1,11 @@
 class Solution {
 public:
-    int findDays(vector<int>& weights, int mid){
+    int findDays(vector<int>& weights, int capacity){
         int day = 1; 
         int weight = 0; 
 
         for(int i=0; i<weights.size(); i++){
-            if(weight + weights[i] > mid){
+            if(weight + weights[i] > capacity){
                 day++; 
                 weight = weights[i]; 
             } else {
@@ -16,18 +16,18 @@ public:
     }
 
     int shipWithinDays(vector<int>& weights, int days) {
-        int left = *max_element(weights.begin(), weights.end()); 
-        int right = accumulate(weights.begin(), weights.end(), 0);
+        int maxWeights = *max_element(weights.begin(), weights.end()); 
+        int sumWeights = accumulate(weights.begin(), weights.end(), 0);
 
-        while(left <= right){
-            int mid = left + (right-left)/2; 
-            int numberOfDays = findDays(weights, mid);
+        while(maxWeights <= sumWeights){
+            int capacity = maxWeights + (sumWeights-maxWeights)/2; 
+            int numberOfDays = findDays(weights, capacity);
             if(numberOfDays <= days){
-                right = mid - 1; 
+                sumWeights = capacity - 1; 
             } else {
-                left = mid + 1; 
+                maxWeights = capacity + 1; 
             }
         }
-        return left; 
+        return maxWeights; 
     }
 };
