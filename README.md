@@ -15,6 +15,7 @@ This is just a test folder
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Kanishk-Srivastava/Code/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Kanishk-Srivastava/Code/tree/master/0162-find-peak-element) |
 | [0410-split-array-largest-sum](https://github.com/Kanishk-Srivastava/Code/tree/master/0410-split-array-largest-sum) |
+| [0540-single-element-in-a-sorted-array](https://github.com/Kanishk-Srivastava/Code/tree/master/0540-single-element-in-a-sorted-array) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Kanishk-Srivastava/Code/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0907-koko-eating-bananas](https://github.com/Kanishk-Srivastava/Code/tree/master/0907-koko-eating-bananas) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Kanishk-Srivastava/Code/tree/master/1056-capacity-to-ship-packages-within-d-days) |
@@ -33,6 +34,7 @@ This is just a test folder
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Kanishk-Srivastava/Code/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Kanishk-Srivastava/Code/tree/master/0162-find-peak-element) |
 | [0410-split-array-largest-sum](https://github.com/Kanishk-Srivastava/Code/tree/master/0410-split-array-largest-sum) |
+| [0540-single-element-in-a-sorted-array](https://github.com/Kanishk-Srivastava/Code/tree/master/0540-single-element-in-a-sorted-array) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Kanishk-Srivastava/Code/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0907-koko-eating-bananas](https://github.com/Kanishk-Srivastava/Code/tree/master/0907-koko-eating-bananas) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Kanishk-Srivastava/Code/tree/master/1056-capacity-to-ship-packages-within-d-days) |
