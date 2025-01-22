@@ -6,7 +6,8 @@ public:
         while(left<=right) {
             int mid = left + (right - left)/2; 
             if(nums[left] <= nums[right]){
-                 return nums[left];
+                 ans = min(ans, nums[left]); 
+                 break; 
             }
             if(nums[left] <= nums[mid]){
                 ans = min(ans, nums[left]); 
