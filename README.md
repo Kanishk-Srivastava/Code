@@ -7,6 +7,7 @@ This is just a test folder
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Kanishk-Srivastava/Code/tree/master/0004-median-of-two-sorted-arrays) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Kanishk-Srivastava/Code/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/Kanishk-Srivastava/Code/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Kanishk-Srivastava/Code/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Kanishk-Srivastava/Code/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Kanishk-Srivastava/Code/tree/master/0035-search-insert-position) |
@@ -71,6 +72,7 @@ This is just a test folder
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Kanishk-Srivastava/Code/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/Kanishk-Srivastava/Code/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/Kanishk-Srivastava/Code/tree/master/0088-merge-sorted-array) |
 | [0941-sort-array-by-parity](https://github.com/Kanishk-Srivastava/Code/tree/master/0941-sort-array-by-parity) |
 | [0958-sort-array-by-parity-ii](https://github.com/Kanishk-Srivastava/Code/tree/master/0958-sort-array-by-parity-ii) |
