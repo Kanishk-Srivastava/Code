@@ -5,6 +5,7 @@ This is just a test folder
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Kanishk-Srivastava/Code/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/Kanishk-Srivastava/Code/tree/master/0004-median-of-two-sorted-arrays) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Kanishk-Srivastava/Code/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Kanishk-Srivastava/Code/tree/master/0027-remove-element) |
@@ -89,6 +90,7 @@ This is just a test folder
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Kanishk-Srivastava/Code/tree/master/0001-two-sum) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Kanishk-Srivastava/Code/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 ## Sorting
 |  |
