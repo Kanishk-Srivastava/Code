@@ -16,6 +16,7 @@ This is just a test folder
 | [0088-merge-sorted-array](https://github.com/Kanishk-Srivastava/Code/tree/master/0088-merge-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Kanishk-Srivastava/Code/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Kanishk-Srivastava/Code/tree/master/0162-find-peak-element) |
+| [0189-rotate-array](https://github.com/Kanishk-Srivastava/Code/tree/master/0189-rotate-array) |
 | [0410-split-array-largest-sum](https://github.com/Kanishk-Srivastava/Code/tree/master/0410-split-array-largest-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Kanishk-Srivastava/Code/tree/master/0540-single-element-in-a-sorted-array) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Kanishk-Srivastava/Code/tree/master/0882-peak-index-in-a-mountain-array) |
@@ -75,6 +76,7 @@ This is just a test folder
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Kanishk-Srivastava/Code/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Kanishk-Srivastava/Code/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/Kanishk-Srivastava/Code/tree/master/0088-merge-sorted-array) |
+| [0189-rotate-array](https://github.com/Kanishk-Srivastava/Code/tree/master/0189-rotate-array) |
 | [0941-sort-array-by-parity](https://github.com/Kanishk-Srivastava/Code/tree/master/0941-sort-array-by-parity) |
 | [0958-sort-array-by-parity-ii](https://github.com/Kanishk-Srivastava/Code/tree/master/0958-sort-array-by-parity-ii) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Kanishk-Srivastava/Code/tree/master/2265-partition-array-according-to-given-pivot) |
@@ -95,4 +97,8 @@ This is just a test folder
 | ------- |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Kanishk-Srivastava/Code/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Kanishk-Srivastava/Code/tree/master/2271-rearrange-array-elements-by-sign) |
+## Math
+|  |
+| ------- |
+| [0189-rotate-array](https://github.com/Kanishk-Srivastava/Code/tree/master/0189-rotate-array) |
 <!---LeetCode Topics End-->
