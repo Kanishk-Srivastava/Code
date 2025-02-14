@@ -34,6 +34,7 @@ This is just a test folder
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Kanishk-Srivastava/Code/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1646-kth-missing-positive-number](https://github.com/Kanishk-Srivastava/Code/tree/master/1646-kth-missing-positive-number) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Kanishk-Srivastava/Code/tree/master/1878-check-if-array-is-sorted-and-rotated) |
+| [2228-watering-plants-ii](https://github.com/Kanishk-Srivastava/Code/tree/master/2228-watering-plants-ii) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Kanishk-Srivastava/Code/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Kanishk-Srivastava/Code/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/Kanishk-Srivastava/Code/tree/master/2320-find-all-k-distant-indices-in-an-array) |
@@ -93,6 +94,7 @@ This is just a test folder
 | [0189-rotate-array](https://github.com/Kanishk-Srivastava/Code/tree/master/0189-rotate-array) |
 | [0941-sort-array-by-parity](https://github.com/Kanishk-Srivastava/Code/tree/master/0941-sort-array-by-parity) |
 | [0958-sort-array-by-parity-ii](https://github.com/Kanishk-Srivastava/Code/tree/master/0958-sort-array-by-parity-ii) |
+| [2228-watering-plants-ii](https://github.com/Kanishk-Srivastava/Code/tree/master/2228-watering-plants-ii) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Kanishk-Srivastava/Code/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Kanishk-Srivastava/Code/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/Kanishk-Srivastava/Code/tree/master/2320-find-all-k-distant-indices-in-an-array) |
@@ -116,6 +118,7 @@ This is just a test folder
 ## Simulation
 |  |
 | ------- |
+| [2228-watering-plants-ii](https://github.com/Kanishk-Srivastava/Code/tree/master/2228-watering-plants-ii) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Kanishk-Srivastava/Code/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Kanishk-Srivastava/Code/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2551-apply-operations-to-an-array](https://github.com/Kanishk-Srivastava/Code/tree/master/2551-apply-operations-to-an-array) |
