@@ -17,6 +17,7 @@ public:
         for(int i = nums.size() - 1; i>idx; i--){
             if(nums[i]>nums[idx]){
                 swap(nums[i], nums[idx]); 
+                break; 
             }
         }
         reverse(nums.begin() + idx + 1, nums.end()); 
