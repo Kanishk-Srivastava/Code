@@ -93,6 +93,7 @@ This is just a test folder
 | [0031-next-permutation](https://github.com/Kanishk-Srivastava/Code/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/Kanishk-Srivastava/Code/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Kanishk-Srivastava/Code/tree/master/0088-merge-sorted-array) |
+| [0151-reverse-words-in-a-string](https://github.com/Kanishk-Srivastava/Code/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/Kanishk-Srivastava/Code/tree/master/0189-rotate-array) |
 | [0344-reverse-string](https://github.com/Kanishk-Srivastava/Code/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Kanishk-Srivastava/Code/tree/master/0345-reverse-vowels-of-a-string) |
@@ -136,6 +137,7 @@ This is just a test folder
 ## String
 |  |
 | ------- |
+| [0151-reverse-words-in-a-string](https://github.com/Kanishk-Srivastava/Code/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/Kanishk-Srivastava/Code/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Kanishk-Srivastava/Code/tree/master/0345-reverse-vowels-of-a-string) |
 | [0556-next-greater-element-iii](https://github.com/Kanishk-Srivastava/Code/tree/master/0556-next-greater-element-iii) |
