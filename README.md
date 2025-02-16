@@ -26,6 +26,7 @@ This is just a test folder
 | [0189-rotate-array](https://github.com/Kanishk-Srivastava/Code/tree/master/0189-rotate-array) |
 | [0410-split-array-largest-sum](https://github.com/Kanishk-Srivastava/Code/tree/master/0410-split-array-largest-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Kanishk-Srivastava/Code/tree/master/0540-single-element-in-a-sorted-array) |
+| [0841-shortest-distance-to-a-character](https://github.com/Kanishk-Srivastava/Code/tree/master/0841-shortest-distance-to-a-character) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Kanishk-Srivastava/Code/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0907-koko-eating-bananas](https://github.com/Kanishk-Srivastava/Code/tree/master/0907-koko-eating-bananas) |
 | [0941-sort-array-by-parity](https://github.com/Kanishk-Srivastava/Code/tree/master/0941-sort-array-by-parity) |
@@ -103,6 +104,7 @@ This is just a test folder
 | [0556-next-greater-element-iii](https://github.com/Kanishk-Srivastava/Code/tree/master/0556-next-greater-element-iii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Kanishk-Srivastava/Code/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0680-valid-palindrome-ii](https://github.com/Kanishk-Srivastava/Code/tree/master/0680-valid-palindrome-ii) |
+| [0841-shortest-distance-to-a-character](https://github.com/Kanishk-Srivastava/Code/tree/master/0841-shortest-distance-to-a-character) |
 | [0941-sort-array-by-parity](https://github.com/Kanishk-Srivastava/Code/tree/master/0941-sort-array-by-parity) |
 | [0958-sort-array-by-parity-ii](https://github.com/Kanishk-Srivastava/Code/tree/master/0958-sort-array-by-parity-ii) |
 | [1880-largest-merge-of-two-strings](https://github.com/Kanishk-Srivastava/Code/tree/master/1880-largest-merge-of-two-strings) |
@@ -150,6 +152,7 @@ This is just a test folder
 | [0556-next-greater-element-iii](https://github.com/Kanishk-Srivastava/Code/tree/master/0556-next-greater-element-iii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Kanishk-Srivastava/Code/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0680-valid-palindrome-ii](https://github.com/Kanishk-Srivastava/Code/tree/master/0680-valid-palindrome-ii) |
+| [0841-shortest-distance-to-a-character](https://github.com/Kanishk-Srivastava/Code/tree/master/0841-shortest-distance-to-a-character) |
 | [1880-largest-merge-of-two-strings](https://github.com/Kanishk-Srivastava/Code/tree/master/1880-largest-merge-of-two-strings) |
 | [2128-reverse-prefix-of-word](https://github.com/Kanishk-Srivastava/Code/tree/master/2128-reverse-prefix-of-word) |
 ## Stack
