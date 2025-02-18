@@ -111,6 +111,7 @@ This is just a test folder
 | [0941-sort-array-by-parity](https://github.com/Kanishk-Srivastava/Code/tree/master/0941-sort-array-by-parity) |
 | [0958-sort-array-by-parity-ii](https://github.com/Kanishk-Srivastava/Code/tree/master/0958-sort-array-by-parity-ii) |
 | [0979-di-string-match](https://github.com/Kanishk-Srivastava/Code/tree/master/0979-di-string-match) |
+| [1850-minimum-length-of-string-after-deleting-similar-ends](https://github.com/Kanishk-Srivastava/Code/tree/master/1850-minimum-length-of-string-after-deleting-similar-ends) |
 | [1880-largest-merge-of-two-strings](https://github.com/Kanishk-Srivastava/Code/tree/master/1880-largest-merge-of-two-strings) |
 | [2128-reverse-prefix-of-word](https://github.com/Kanishk-Srivastava/Code/tree/master/2128-reverse-prefix-of-word) |
 | [2228-watering-plants-ii](https://github.com/Kanishk-Srivastava/Code/tree/master/2228-watering-plants-ii) |
@@ -160,6 +161,7 @@ This is just a test folder
 | [0696-count-binary-substrings](https://github.com/Kanishk-Srivastava/Code/tree/master/0696-count-binary-substrings) |
 | [0841-shortest-distance-to-a-character](https://github.com/Kanishk-Srivastava/Code/tree/master/0841-shortest-distance-to-a-character) |
 | [0979-di-string-match](https://github.com/Kanishk-Srivastava/Code/tree/master/0979-di-string-match) |
+| [1850-minimum-length-of-string-after-deleting-similar-ends](https://github.com/Kanishk-Srivastava/Code/tree/master/1850-minimum-length-of-string-after-deleting-similar-ends) |
 | [1880-largest-merge-of-two-strings](https://github.com/Kanishk-Srivastava/Code/tree/master/1880-largest-merge-of-two-strings) |
 | [2128-reverse-prefix-of-word](https://github.com/Kanishk-Srivastava/Code/tree/master/2128-reverse-prefix-of-word) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/Kanishk-Srivastava/Code/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
