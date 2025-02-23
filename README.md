@@ -37,6 +37,7 @@ This is just a test folder
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Kanishk-Srivastava/Code/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1646-kth-missing-positive-number](https://github.com/Kanishk-Srivastava/Code/tree/master/1646-kth-missing-positive-number) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Kanishk-Srivastava/Code/tree/master/1878-check-if-array-is-sorted-and-rotated) |
+| [1923-sentence-similarity-iii](https://github.com/Kanishk-Srivastava/Code/tree/master/1923-sentence-similarity-iii) |
 | [2228-watering-plants-ii](https://github.com/Kanishk-Srivastava/Code/tree/master/2228-watering-plants-ii) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Kanishk-Srivastava/Code/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Kanishk-Srivastava/Code/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -115,6 +116,7 @@ This is just a test folder
 | [0979-di-string-match](https://github.com/Kanishk-Srivastava/Code/tree/master/0979-di-string-match) |
 | [1850-minimum-length-of-string-after-deleting-similar-ends](https://github.com/Kanishk-Srivastava/Code/tree/master/1850-minimum-length-of-string-after-deleting-similar-ends) |
 | [1880-largest-merge-of-two-strings](https://github.com/Kanishk-Srivastava/Code/tree/master/1880-largest-merge-of-two-strings) |
+| [1923-sentence-similarity-iii](https://github.com/Kanishk-Srivastava/Code/tree/master/1923-sentence-similarity-iii) |
 | [2128-reverse-prefix-of-word](https://github.com/Kanishk-Srivastava/Code/tree/master/2128-reverse-prefix-of-word) |
 | [2228-watering-plants-ii](https://github.com/Kanishk-Srivastava/Code/tree/master/2228-watering-plants-ii) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Kanishk-Srivastava/Code/tree/master/2265-partition-array-according-to-given-pivot) |
@@ -168,6 +170,7 @@ This is just a test folder
 | [0979-di-string-match](https://github.com/Kanishk-Srivastava/Code/tree/master/0979-di-string-match) |
 | [1850-minimum-length-of-string-after-deleting-similar-ends](https://github.com/Kanishk-Srivastava/Code/tree/master/1850-minimum-length-of-string-after-deleting-similar-ends) |
 | [1880-largest-merge-of-two-strings](https://github.com/Kanishk-Srivastava/Code/tree/master/1880-largest-merge-of-two-strings) |
+| [1923-sentence-similarity-iii](https://github.com/Kanishk-Srivastava/Code/tree/master/1923-sentence-similarity-iii) |
 | [2128-reverse-prefix-of-word](https://github.com/Kanishk-Srivastava/Code/tree/master/2128-reverse-prefix-of-word) |
 | [2414-move-pieces-to-obtain-a-string](https://github.com/Kanishk-Srivastava/Code/tree/master/2414-move-pieces-to-obtain-a-string) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/Kanishk-Srivastava/Code/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
