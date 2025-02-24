@@ -44,6 +44,7 @@ This is just a test folder
 | [2271-rearrange-array-elements-by-sign](https://github.com/Kanishk-Srivastava/Code/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/Kanishk-Srivastava/Code/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2551-apply-operations-to-an-array](https://github.com/Kanishk-Srivastava/Code/tree/master/2551-apply-operations-to-an-array) |
+| [2691-count-vowel-strings-in-ranges](https://github.com/Kanishk-Srivastava/Code/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Kanishk-Srivastava/Code/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2714-left-and-right-sum-differences](https://github.com/Kanishk-Srivastava/Code/tree/master/2714-left-and-right-sum-differences) |
 ## Binary Search
@@ -83,6 +84,7 @@ This is just a test folder
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/Kanishk-Srivastava/Code/tree/master/0303-range-sum-query-immutable) |
 | [0410-split-array-largest-sum](https://github.com/Kanishk-Srivastava/Code/tree/master/0410-split-array-largest-sum) |
+| [2691-count-vowel-strings-in-ranges](https://github.com/Kanishk-Srivastava/Code/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2714-left-and-right-sum-differences](https://github.com/Kanishk-Srivastava/Code/tree/master/2714-left-and-right-sum-differences) |
 ## Divide and Conquer
 |  |
@@ -177,6 +179,7 @@ This is just a test folder
 | [1923-sentence-similarity-iii](https://github.com/Kanishk-Srivastava/Code/tree/master/1923-sentence-similarity-iii) |
 | [2128-reverse-prefix-of-word](https://github.com/Kanishk-Srivastava/Code/tree/master/2128-reverse-prefix-of-word) |
 | [2414-move-pieces-to-obtain-a-string](https://github.com/Kanishk-Srivastava/Code/tree/master/2414-move-pieces-to-obtain-a-string) |
+| [2691-count-vowel-strings-in-ranges](https://github.com/Kanishk-Srivastava/Code/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/Kanishk-Srivastava/Code/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
 | [3195-separate-black-and-white-balls](https://github.com/Kanishk-Srivastava/Code/tree/master/3195-separate-black-and-white-balls) |
 ## Stack
