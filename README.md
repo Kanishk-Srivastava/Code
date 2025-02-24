@@ -45,6 +45,7 @@ This is just a test folder
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/Kanishk-Srivastava/Code/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2551-apply-operations-to-an-array](https://github.com/Kanishk-Srivastava/Code/tree/master/2551-apply-operations-to-an-array) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Kanishk-Srivastava/Code/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
+| [2714-left-and-right-sum-differences](https://github.com/Kanishk-Srivastava/Code/tree/master/2714-left-and-right-sum-differences) |
 ## Binary Search
 |  |
 | ------- |
@@ -82,6 +83,7 @@ This is just a test folder
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/Kanishk-Srivastava/Code/tree/master/0303-range-sum-query-immutable) |
 | [0410-split-array-largest-sum](https://github.com/Kanishk-Srivastava/Code/tree/master/0410-split-array-largest-sum) |
+| [2714-left-and-right-sum-differences](https://github.com/Kanishk-Srivastava/Code/tree/master/2714-left-and-right-sum-differences) |
 ## Divide and Conquer
 |  |
 | ------- |
