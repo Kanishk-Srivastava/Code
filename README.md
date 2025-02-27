@@ -24,6 +24,7 @@ This is just a test folder
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Kanishk-Srivastava/Code/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Kanishk-Srivastava/Code/tree/master/0162-find-peak-element) |
 | [0189-rotate-array](https://github.com/Kanishk-Srivastava/Code/tree/master/0189-rotate-array) |
+| [0238-product-of-array-except-self](https://github.com/Kanishk-Srivastava/Code/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/Kanishk-Srivastava/Code/tree/master/0303-range-sum-query-immutable) |
 | [0410-split-array-largest-sum](https://github.com/Kanishk-Srivastava/Code/tree/master/0410-split-array-largest-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Kanishk-Srivastava/Code/tree/master/0540-single-element-in-a-sorted-array) |
@@ -82,6 +83,7 @@ This is just a test folder
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/Kanishk-Srivastava/Code/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/Kanishk-Srivastava/Code/tree/master/0303-range-sum-query-immutable) |
 | [0410-split-array-largest-sum](https://github.com/Kanishk-Srivastava/Code/tree/master/0410-split-array-largest-sum) |
 | [2576-minimum-penalty-for-a-shop](https://github.com/Kanishk-Srivastava/Code/tree/master/2576-minimum-penalty-for-a-shop) |
