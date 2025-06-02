@@ -21,6 +21,7 @@ This is just a test folder
 | [0075-sort-colors](https://github.com/Kanishk-Srivastava/Code/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Kanishk-Srivastava/Code/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Kanishk-Srivastava/Code/tree/master/0088-merge-sorted-array) |
+| [0136-single-number](https://github.com/Kanishk-Srivastava/Code/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Kanishk-Srivastava/Code/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Kanishk-Srivastava/Code/tree/master/0162-find-peak-element) |
 | [0189-rotate-array](https://github.com/Kanishk-Srivastava/Code/tree/master/0189-rotate-array) |
@@ -211,5 +212,6 @@ This is just a test folder
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/Kanishk-Srivastava/Code/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/Kanishk-Srivastava/Code/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
