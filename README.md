@@ -24,6 +24,7 @@ This is just a test folder
 | [0136-single-number](https://github.com/Kanishk-Srivastava/Code/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Kanishk-Srivastava/Code/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Kanishk-Srivastava/Code/tree/master/0162-find-peak-element) |
+| [0169-majority-element](https://github.com/Kanishk-Srivastava/Code/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Kanishk-Srivastava/Code/tree/master/0189-rotate-array) |
 | [0238-product-of-array-except-self](https://github.com/Kanishk-Srivastava/Code/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/Kanishk-Srivastava/Code/tree/master/0268-missing-number) |
@@ -99,6 +100,7 @@ This is just a test folder
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Kanishk-Srivastava/Code/tree/master/0004-median-of-two-sorted-arrays) |
+| [0169-majority-element](https://github.com/Kanishk-Srivastava/Code/tree/master/0169-majority-element) |
 ## Matrix
 |  |
 | ------- |
@@ -146,6 +148,7 @@ This is just a test folder
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Kanishk-Srivastava/Code/tree/master/0001-two-sum) |
+| [0169-majority-element](https://github.com/Kanishk-Srivastava/Code/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Kanishk-Srivastava/Code/tree/master/0268-missing-number) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Kanishk-Srivastava/Code/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 ## Sorting
@@ -156,6 +159,7 @@ This is just a test folder
 | [0018-4sum](https://github.com/Kanishk-Srivastava/Code/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/Kanishk-Srivastava/Code/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Kanishk-Srivastava/Code/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/Kanishk-Srivastava/Code/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Kanishk-Srivastava/Code/tree/master/0268-missing-number) |
 | [0941-sort-array-by-parity](https://github.com/Kanishk-Srivastava/Code/tree/master/0941-sort-array-by-parity) |
 | [0958-sort-array-by-parity-ii](https://github.com/Kanishk-Srivastava/Code/tree/master/0958-sort-array-by-parity-ii) |
@@ -214,4 +218,8 @@ This is just a test folder
 | ------- |
 | [0136-single-number](https://github.com/Kanishk-Srivastava/Code/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/Kanishk-Srivastava/Code/tree/master/0268-missing-number) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Kanishk-Srivastava/Code/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
