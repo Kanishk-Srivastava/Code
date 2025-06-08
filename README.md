@@ -19,6 +19,7 @@ This is just a test folder
 | [0035-search-insert-position](https://github.com/Kanishk-Srivastava/Code/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/Kanishk-Srivastava/Code/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Kanishk-Srivastava/Code/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/Kanishk-Srivastava/Code/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Kanishk-Srivastava/Code/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Kanishk-Srivastava/Code/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/Kanishk-Srivastava/Code/tree/master/0075-sort-colors) |
@@ -112,6 +113,7 @@ This is just a test folder
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Kanishk-Srivastava/Code/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/Kanishk-Srivastava/Code/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Kanishk-Srivastava/Code/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Kanishk-Srivastava/Code/tree/master/0074-search-a-2d-matrix) |
 ## Two Pointers
@@ -176,6 +178,7 @@ This is just a test folder
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Kanishk-Srivastava/Code/tree/master/0054-spiral-matrix) |
 | [2228-watering-plants-ii](https://github.com/Kanishk-Srivastava/Code/tree/master/2228-watering-plants-ii) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Kanishk-Srivastava/Code/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Kanishk-Srivastava/Code/tree/master/2271-rearrange-array-elements-by-sign) |
