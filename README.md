@@ -17,6 +17,7 @@ This is just a test folder
 | [0033-search-in-rotated-sorted-array](https://github.com/Kanishk-Srivastava/Code/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Kanishk-Srivastava/Code/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Kanishk-Srivastava/Code/tree/master/0035-search-insert-position) |
+| [0048-rotate-image](https://github.com/Kanishk-Srivastava/Code/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Kanishk-Srivastava/Code/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/Kanishk-Srivastava/Code/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Kanishk-Srivastava/Code/tree/master/0074-search-a-2d-matrix) |
@@ -110,6 +111,7 @@ This is just a test folder
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Kanishk-Srivastava/Code/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/Kanishk-Srivastava/Code/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Kanishk-Srivastava/Code/tree/master/0074-search-a-2d-matrix) |
 ## Two Pointers
@@ -181,6 +183,7 @@ This is just a test folder
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Kanishk-Srivastava/Code/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/Kanishk-Srivastava/Code/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Kanishk-Srivastava/Code/tree/master/0268-missing-number) |
 | [0556-next-greater-element-iii](https://github.com/Kanishk-Srivastava/Code/tree/master/0556-next-greater-element-iii) |
