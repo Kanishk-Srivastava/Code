@@ -25,6 +25,7 @@ This is just a test folder
 | [0075-sort-colors](https://github.com/Kanishk-Srivastava/Code/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Kanishk-Srivastava/Code/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Kanishk-Srivastava/Code/tree/master/0088-merge-sorted-array) |
+| [0118-pascals-triangle](https://github.com/Kanishk-Srivastava/Code/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Kanishk-Srivastava/Code/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Kanishk-Srivastava/Code/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Kanishk-Srivastava/Code/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -83,6 +84,7 @@ This is just a test folder
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Kanishk-Srivastava/Code/tree/master/0053-maximum-subarray) |
+| [0118-pascals-triangle](https://github.com/Kanishk-Srivastava/Code/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Kanishk-Srivastava/Code/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0410-split-array-largest-sum](https://github.com/Kanishk-Srivastava/Code/tree/master/0410-split-array-largest-sum) |
 ## Greedy
