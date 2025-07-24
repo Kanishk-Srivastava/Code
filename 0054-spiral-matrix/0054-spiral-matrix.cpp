@@ -2,35 +2,40 @@ class Solution {
 public:
     vector<int> result;
 
-    void spiralHelper(vector<vector<int>>& matrix, int top, int bottom, int left, int right) {
-        // Base case: if bounds are invalid
-        if (top > bottom || left > right) return;
+    void spiralHelper(vector<vector<int>>& matrix, int top, int bottom,
+                      int left, int right) {
+        // Base case if bounds are invalid
+        if (top > bottom || left > right)
+            return;
 
         // Top row
-        for (int j = left; j <= right; j++)
-            result.push_back(matrix[top][j]);
+        for (int i = left; i <= right; i++) {
+            result.push_back(matrix[top][i]);
+        }
         top++;
 
         // Right column
-        for (int i = top; i <= bottom; i++)
+        for (int i = top; i <= bottom; i++) {
             result.push_back(matrix[i][right]);
+        }
         right--;
 
-        // Bottom row (if any)
+        // Bottom row
         if (top <= bottom) {
-            for (int j = right; j >= left; j--)
-                result.push_back(matrix[bottom][j]);
+            for (int i = right; i >= left; i--) {
+                result.push_back(matrix[bottom][i]);
+            }
             bottom--;
         }
 
-        // Left column (if any)
+        // Left column
         if (left <= right) {
-            for (int i = bottom; i >= top; i--)
+            for (int i = bottom; i >= top; i--) {
                 result.push_back(matrix[i][left]);
+            }
             left++;
         }
 
-        // Recurse on the inner submatrix
         spiralHelper(matrix, top, bottom, left, right);
     }
 
