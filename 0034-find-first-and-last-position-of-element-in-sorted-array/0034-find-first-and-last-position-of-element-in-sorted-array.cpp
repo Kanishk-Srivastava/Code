@@ -1,38 +1,44 @@
 class Solution {
 public:
+    vector<int> searchRange(vector<int>& nums, int target) {
+        int first = findFirst(nums,target); 
+        int last = findLast(nums,target); 
+        return {first, last}; 
+    }
+
     int findFirst(vector<int>& nums, int target){
-        int left = 0, right = nums.size() - 1; 
-        int idx=-1; 
-        while(left <= right){
-            int mid = left + (right - left) / 2; 
-            if(nums[mid] == target){
-                idx = mid; 
-                right = mid -1; 
-            } else if(nums[mid] > target){
-                right = mid -1; 
-            } else left = mid + 1; 
+        int low = 0, high = nums.size() - 1; 
+        int result = -1; 
+        while(low <= high){
+            int mid = low + (high - low) / 2; 
+
+            if(target < nums[mid]){
+                high = mid - 1; 
+            } else if(target > nums[mid]){
+                low = mid + 1; 
+            } else {
+                result = mid; 
+                high = mid - 1; 
+            }
         }
-        return idx;
+        return result; 
     }
 
     int findLast(vector<int>& nums, int target){
-        int left = 0, right = nums.size() - 1; 
-        int idx=-1; 
-        while(left <= right){
-            int mid = left + (right - left) / 2; 
-            if(nums[mid] == target){
-                idx = mid; 
-                left = mid + 1; 
-            } else if(nums[mid] > target){
-                right = mid -1; 
-            } else left = mid + 1; 
+        int low = 0, high = nums.size() - 1; 
+        int result = -1; 
+        while(low <= high){
+            int mid = low + (high - low) / 2; 
+            if(target < nums[mid]){
+                high = mid - 1; 
+            } else if(target > nums[mid]){
+                low = mid + 1; 
+            } else {
+                result = mid; 
+                low = mid + 1; 
+            }
         }
-        return idx;
+        return result; 
     }
-
-    vector<int> searchRange(vector<int>& nums, int target) {
-        int firstIdx = findFirst(nums, target); 
-        int lastIdx = findLast(nums,target); 
-        return {firstIdx, lastIdx}; 
-    }
+    
 };
