@@ -1,36 +1,32 @@
 class Solution {
 public:
     int minDays(vector<int>& bloomDay, int m, int k) {
-        int left = *min_element(bloomDay.begin(), bloomDay.end()); 
-        int right = *max_element(bloomDay.begin(), bloomDay.end());
-
-        long long val = (long long) m * (long long) k ; 
-
-        if(val > bloomDay.size()) return -1; 
-
-        while(left <= right){
-            int mid = left + (right-left)/2; 
-            if(possible(bloomDay, m, k, mid)){
-                right = mid - 1; 
-            } else {
-                left = mid + 1; 
-            }
+        int low = *min_element(bloomDay.begin(), bloomDay.end()); 
+        int high = *max_element(bloomDay.begin(), bloomDay.end()); 
+        int ans=-1;
+        while(low<=high){
+            int mid = low + (high - low) / 2; 
+            if(canMake(bloomDay, mid, m, k)) {
+                ans = mid; 
+                high = mid - 1; 
+            } else low = mid + 1; 
         }
-        return left; 
+        return ans; 
     }
 
-    bool possible(vector<int>&bloomDay, int m, int k, int mid){
-        int consecCount = 0, numOfBoq = 0; 
+    bool canMake(vector<int>& bloomDay, int mid, int m, int k){
+        int flowers = 0, bouquets = 0; 
         for(int i=0; i<bloomDay.size(); i++){
             if(bloomDay[i] <= mid){
-                consecCount++; 
-            } else consecCount = 0; 
-
-            if(consecCount == k){
-                numOfBoq++; 
-                consecCount=0; 
+            flowers++; 
+                if(flowers == k) {
+                    bouquets++; 
+                    flowers = 0; 
+                }
+            } else {
+                flowers = 0; 
             }
         }
-        return (numOfBoq >= m);
+        return bouquets >= m; 
     }
 };
