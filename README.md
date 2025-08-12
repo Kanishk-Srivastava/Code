@@ -58,6 +58,7 @@ This is just a test folder
 | [1646-kth-missing-positive-number](https://github.com/Kanishk-Srivastava/Code/tree/master/1646-kth-missing-positive-number) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Kanishk-Srivastava/Code/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1923-sentence-similarity-iii](https://github.com/Kanishk-Srivastava/Code/tree/master/1923-sentence-similarity-iii) |
+| [2047-find-a-peak-element-ii](https://github.com/Kanishk-Srivastava/Code/tree/master/2047-find-a-peak-element-ii) |
 | [2228-watering-plants-ii](https://github.com/Kanishk-Srivastava/Code/tree/master/2228-watering-plants-ii) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Kanishk-Srivastava/Code/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Kanishk-Srivastava/Code/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -89,6 +90,7 @@ This is just a test folder
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Kanishk-Srivastava/Code/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Kanishk-Srivastava/Code/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1646-kth-missing-positive-number](https://github.com/Kanishk-Srivastava/Code/tree/master/1646-kth-missing-positive-number) |
+| [2047-find-a-peak-element-ii](https://github.com/Kanishk-Srivastava/Code/tree/master/2047-find-a-peak-element-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -133,6 +135,7 @@ This is just a test folder
 | [0073-set-matrix-zeroes](https://github.com/Kanishk-Srivastava/Code/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Kanishk-Srivastava/Code/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Kanishk-Srivastava/Code/tree/master/0240-search-a-2d-matrix-ii) |
+| [2047-find-a-peak-element-ii](https://github.com/Kanishk-Srivastava/Code/tree/master/2047-find-a-peak-element-ii) |
 ## Two Pointers
 |  |
 | ------- |
