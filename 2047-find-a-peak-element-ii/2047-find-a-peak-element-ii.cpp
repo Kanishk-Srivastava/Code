@@ -5,7 +5,7 @@ public:
         int low = 0, high = n-1; 
 
         while(low <= high){
-            int mid = low + (high - low) / 2; //mid column
+            int mid = low + (high - low) / 2; 
 
             int maxRow = 0; 
 
@@ -19,7 +19,7 @@ public:
             int right = (mid + 1 < n) ? mat[maxRow][mid+1] : INT_MIN; 
 
             if(curr > left && curr > right){
-                return {maxRow, mid}; //peak found
+                return {maxRow, mid}; 
             } else if(right > curr)
                 low = mid + 1; 
             else high = mid - 1; 
