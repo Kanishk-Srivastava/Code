@@ -229,6 +229,7 @@ This is just a test folder
 | [0696-count-binary-substrings](https://github.com/Kanishk-Srivastava/Code/tree/master/0696-count-binary-substrings) |
 | [0841-shortest-distance-to-a-character](https://github.com/Kanishk-Srivastava/Code/tree/master/0841-shortest-distance-to-a-character) |
 | [0979-di-string-match](https://github.com/Kanishk-Srivastava/Code/tree/master/0979-di-string-match) |
+| [1078-remove-outermost-parentheses](https://github.com/Kanishk-Srivastava/Code/tree/master/1078-remove-outermost-parentheses) |
 | [1850-minimum-length-of-string-after-deleting-similar-ends](https://github.com/Kanishk-Srivastava/Code/tree/master/1850-minimum-length-of-string-after-deleting-similar-ends) |
 | [1880-largest-merge-of-two-strings](https://github.com/Kanishk-Srivastava/Code/tree/master/1880-largest-merge-of-two-strings) |
 | [1923-sentence-similarity-iii](https://github.com/Kanishk-Srivastava/Code/tree/master/1923-sentence-similarity-iii) |
@@ -241,6 +242,7 @@ This is just a test folder
 ## Stack
 |  |
 | ------- |
+| [1078-remove-outermost-parentheses](https://github.com/Kanishk-Srivastava/Code/tree/master/1078-remove-outermost-parentheses) |
 | [2128-reverse-prefix-of-word](https://github.com/Kanishk-Srivastava/Code/tree/master/2128-reverse-prefix-of-word) |
 ## Design
 |  |
