@@ -107,6 +107,7 @@ This is just a test folder
 | [0680-valid-palindrome-ii](https://github.com/Kanishk-Srivastava/Code/tree/master/0680-valid-palindrome-ii) |
 | [0979-di-string-match](https://github.com/Kanishk-Srivastava/Code/tree/master/0979-di-string-match) |
 | [1880-largest-merge-of-two-strings](https://github.com/Kanishk-Srivastava/Code/tree/master/1880-largest-merge-of-two-strings) |
+| [2032-largest-odd-number-in-string](https://github.com/Kanishk-Srivastava/Code/tree/master/2032-largest-odd-number-in-string) |
 | [3195-separate-black-and-white-balls](https://github.com/Kanishk-Srivastava/Code/tree/master/3195-separate-black-and-white-balls) |
 ## Prefix Sum
 |  |
@@ -215,6 +216,7 @@ This is just a test folder
 | [0268-missing-number](https://github.com/Kanishk-Srivastava/Code/tree/master/0268-missing-number) |
 | [0556-next-greater-element-iii](https://github.com/Kanishk-Srivastava/Code/tree/master/0556-next-greater-element-iii) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Kanishk-Srivastava/Code/tree/master/1477-product-of-the-last-k-numbers) |
+| [2032-largest-odd-number-in-string](https://github.com/Kanishk-Srivastava/Code/tree/master/2032-largest-odd-number-in-string) |
 ## String
 |  |
 | ------- |
@@ -233,6 +235,7 @@ This is just a test folder
 | [1850-minimum-length-of-string-after-deleting-similar-ends](https://github.com/Kanishk-Srivastava/Code/tree/master/1850-minimum-length-of-string-after-deleting-similar-ends) |
 | [1880-largest-merge-of-two-strings](https://github.com/Kanishk-Srivastava/Code/tree/master/1880-largest-merge-of-two-strings) |
 | [1923-sentence-similarity-iii](https://github.com/Kanishk-Srivastava/Code/tree/master/1923-sentence-similarity-iii) |
+| [2032-largest-odd-number-in-string](https://github.com/Kanishk-Srivastava/Code/tree/master/2032-largest-odd-number-in-string) |
 | [2128-reverse-prefix-of-word](https://github.com/Kanishk-Srivastava/Code/tree/master/2128-reverse-prefix-of-word) |
 | [2414-move-pieces-to-obtain-a-string](https://github.com/Kanishk-Srivastava/Code/tree/master/2414-move-pieces-to-obtain-a-string) |
 | [2576-minimum-penalty-for-a-shop](https://github.com/Kanishk-Srivastava/Code/tree/master/2576-minimum-penalty-for-a-shop) |
