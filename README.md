@@ -183,6 +183,7 @@ This is just a test folder
 | [0001-two-sum](https://github.com/Kanishk-Srivastava/Code/tree/master/0001-two-sum) |
 | [0073-set-matrix-zeroes](https://github.com/Kanishk-Srivastava/Code/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/Kanishk-Srivastava/Code/tree/master/0169-majority-element) |
+| [0205-isomorphic-strings](https://github.com/Kanishk-Srivastava/Code/tree/master/0205-isomorphic-strings) |
 | [0229-majority-element-ii](https://github.com/Kanishk-Srivastava/Code/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Kanishk-Srivastava/Code/tree/master/0268-missing-number) |
 | [0560-subarray-sum-equals-k](https://github.com/Kanishk-Srivastava/Code/tree/master/0560-subarray-sum-equals-k) |
@@ -224,6 +225,7 @@ This is just a test folder
 | [0014-longest-common-prefix](https://github.com/Kanishk-Srivastava/Code/tree/master/0014-longest-common-prefix) |
 | [0125-valid-palindrome](https://github.com/Kanishk-Srivastava/Code/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Kanishk-Srivastava/Code/tree/master/0151-reverse-words-in-a-string) |
+| [0205-isomorphic-strings](https://github.com/Kanishk-Srivastava/Code/tree/master/0205-isomorphic-strings) |
 | [0344-reverse-string](https://github.com/Kanishk-Srivastava/Code/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Kanishk-Srivastava/Code/tree/master/0345-reverse-vowels-of-a-string) |
 | [0443-string-compression](https://github.com/Kanishk-Srivastava/Code/tree/master/0443-string-compression) |
