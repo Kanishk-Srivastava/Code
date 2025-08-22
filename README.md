@@ -187,6 +187,7 @@ This is just a test folder
 | [0229-majority-element-ii](https://github.com/Kanishk-Srivastava/Code/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Kanishk-Srivastava/Code/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Kanishk-Srivastava/Code/tree/master/0268-missing-number) |
+| [0451-sort-characters-by-frequency](https://github.com/Kanishk-Srivastava/Code/tree/master/0451-sort-characters-by-frequency) |
 | [0560-subarray-sum-equals-k](https://github.com/Kanishk-Srivastava/Code/tree/master/0560-subarray-sum-equals-k) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Kanishk-Srivastava/Code/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 ## Sorting
@@ -202,6 +203,7 @@ This is just a test folder
 | [0229-majority-element-ii](https://github.com/Kanishk-Srivastava/Code/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Kanishk-Srivastava/Code/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Kanishk-Srivastava/Code/tree/master/0268-missing-number) |
+| [0451-sort-characters-by-frequency](https://github.com/Kanishk-Srivastava/Code/tree/master/0451-sort-characters-by-frequency) |
 | [0941-sort-array-by-parity](https://github.com/Kanishk-Srivastava/Code/tree/master/0941-sort-array-by-parity) |
 | [0958-sort-array-by-parity-ii](https://github.com/Kanishk-Srivastava/Code/tree/master/0958-sort-array-by-parity-ii) |
 ## Simulation
@@ -232,6 +234,7 @@ This is just a test folder
 | [0344-reverse-string](https://github.com/Kanishk-Srivastava/Code/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Kanishk-Srivastava/Code/tree/master/0345-reverse-vowels-of-a-string) |
 | [0443-string-compression](https://github.com/Kanishk-Srivastava/Code/tree/master/0443-string-compression) |
+| [0451-sort-characters-by-frequency](https://github.com/Kanishk-Srivastava/Code/tree/master/0451-sort-characters-by-frequency) |
 | [0556-next-greater-element-iii](https://github.com/Kanishk-Srivastava/Code/tree/master/0556-next-greater-element-iii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Kanishk-Srivastava/Code/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0680-valid-palindrome-ii](https://github.com/Kanishk-Srivastava/Code/tree/master/0680-valid-palindrome-ii) |
@@ -274,6 +277,7 @@ This is just a test folder
 | ------- |
 | [0169-majority-element](https://github.com/Kanishk-Srivastava/Code/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Kanishk-Srivastava/Code/tree/master/0229-majority-element-ii) |
+| [0451-sort-characters-by-frequency](https://github.com/Kanishk-Srivastava/Code/tree/master/0451-sort-characters-by-frequency) |
 ## Binary Indexed Tree
 |  |
 | ------- |
@@ -298,4 +302,12 @@ This is just a test folder
 |  |
 | ------- |
 | [0812-rotate-string](https://github.com/Kanishk-Srivastava/Code/tree/master/0812-rotate-string) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/Kanishk-Srivastava/Code/tree/master/0451-sort-characters-by-frequency) |
+## Bucket Sort
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/Kanishk-Srivastava/Code/tree/master/0451-sort-characters-by-frequency) |
 <!---LeetCode Topics End-->
