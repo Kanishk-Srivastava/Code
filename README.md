@@ -233,6 +233,7 @@ This is just a test folder
 | [0557-reverse-words-in-a-string-iii](https://github.com/Kanishk-Srivastava/Code/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0680-valid-palindrome-ii](https://github.com/Kanishk-Srivastava/Code/tree/master/0680-valid-palindrome-ii) |
 | [0696-count-binary-substrings](https://github.com/Kanishk-Srivastava/Code/tree/master/0696-count-binary-substrings) |
+| [0812-rotate-string](https://github.com/Kanishk-Srivastava/Code/tree/master/0812-rotate-string) |
 | [0841-shortest-distance-to-a-character](https://github.com/Kanishk-Srivastava/Code/tree/master/0841-shortest-distance-to-a-character) |
 | [0979-di-string-match](https://github.com/Kanishk-Srivastava/Code/tree/master/0979-di-string-match) |
 | [1078-remove-outermost-parentheses](https://github.com/Kanishk-Srivastava/Code/tree/master/1078-remove-outermost-parentheses) |
@@ -290,4 +291,8 @@ This is just a test folder
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Kanishk-Srivastava/Code/tree/master/0014-longest-common-prefix) |
+## String Matching
+|  |
+| ------- |
+| [0812-rotate-string](https://github.com/Kanishk-Srivastava/Code/tree/master/0812-rotate-string) |
 <!---LeetCode Topics End-->
