@@ -185,6 +185,7 @@ This is just a test folder
 | [0169-majority-element](https://github.com/Kanishk-Srivastava/Code/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/Kanishk-Srivastava/Code/tree/master/0205-isomorphic-strings) |
 | [0229-majority-element-ii](https://github.com/Kanishk-Srivastava/Code/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/Kanishk-Srivastava/Code/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Kanishk-Srivastava/Code/tree/master/0268-missing-number) |
 | [0560-subarray-sum-equals-k](https://github.com/Kanishk-Srivastava/Code/tree/master/0560-subarray-sum-equals-k) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Kanishk-Srivastava/Code/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
@@ -199,6 +200,7 @@ This is just a test folder
 | [0088-merge-sorted-array](https://github.com/Kanishk-Srivastava/Code/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Kanishk-Srivastava/Code/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Kanishk-Srivastava/Code/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/Kanishk-Srivastava/Code/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Kanishk-Srivastava/Code/tree/master/0268-missing-number) |
 | [0941-sort-array-by-parity](https://github.com/Kanishk-Srivastava/Code/tree/master/0941-sort-array-by-parity) |
 | [0958-sort-array-by-parity-ii](https://github.com/Kanishk-Srivastava/Code/tree/master/0958-sort-array-by-parity-ii) |
@@ -226,6 +228,7 @@ This is just a test folder
 | [0125-valid-palindrome](https://github.com/Kanishk-Srivastava/Code/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Kanishk-Srivastava/Code/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/Kanishk-Srivastava/Code/tree/master/0205-isomorphic-strings) |
+| [0242-valid-anagram](https://github.com/Kanishk-Srivastava/Code/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Kanishk-Srivastava/Code/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Kanishk-Srivastava/Code/tree/master/0345-reverse-vowels-of-a-string) |
 | [0443-string-compression](https://github.com/Kanishk-Srivastava/Code/tree/master/0443-string-compression) |
