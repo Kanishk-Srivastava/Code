@@ -319,4 +319,8 @@ This is just a test folder
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/Kanishk-Srivastava/Code/tree/master/0451-sort-characters-by-frequency) |
+## Linked List
+|  |
+| ------- |
+| [0237-delete-node-in-a-linked-list](https://github.com/Kanishk-Srivastava/Code/tree/master/0237-delete-node-in-a-linked-list) |
 <!---LeetCode Topics End-->
