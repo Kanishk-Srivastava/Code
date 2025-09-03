@@ -12,7 +12,7 @@ class Solution {
 public:
     ListNode* oddEvenList(ListNode* head) {
         if(!head || !head->next || !head->next->next){
-            return nullptr; 
+            return head; 
         }
 
         ListNode* odd = head; 
