@@ -243,6 +243,7 @@ This is just a test folder
 | [0556-next-greater-element-iii](https://github.com/Kanishk-Srivastava/Code/tree/master/0556-next-greater-element-iii) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Kanishk-Srivastava/Code/tree/master/1477-product-of-the-last-k-numbers) |
 | [2032-largest-odd-number-in-string](https://github.com/Kanishk-Srivastava/Code/tree/master/2032-largest-odd-number-in-string) |
+| [2050-count-good-numbers](https://github.com/Kanishk-Srivastava/Code/tree/master/2050-count-good-numbers) |
 ## String
 |  |
 | ------- |
@@ -362,4 +363,5 @@ This is just a test folder
 | [0025-reverse-nodes-in-k-group](https://github.com/Kanishk-Srivastava/Code/tree/master/0025-reverse-nodes-in-k-group) |
 | [0206-reverse-linked-list](https://github.com/Kanishk-Srivastava/Code/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Kanishk-Srivastava/Code/tree/master/0234-palindrome-linked-list) |
+| [2050-count-good-numbers](https://github.com/Kanishk-Srivastava/Code/tree/master/2050-count-good-numbers) |
 <!---LeetCode Topics End-->
