@@ -30,6 +30,7 @@ This is just a test folder
 | [0078-subsets](https://github.com/Kanishk-Srivastava/Code/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Kanishk-Srivastava/Code/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Kanishk-Srivastava/Code/tree/master/0088-merge-sorted-array) |
+| [0090-subsets-ii](https://github.com/Kanishk-Srivastava/Code/tree/master/0090-subsets-ii) |
 | [0118-pascals-triangle](https://github.com/Kanishk-Srivastava/Code/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Kanishk-Srivastava/Code/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Kanishk-Srivastava/Code/tree/master/0136-single-number) |
@@ -303,6 +304,7 @@ This is just a test folder
 |  |
 | ------- |
 | [0078-subsets](https://github.com/Kanishk-Srivastava/Code/tree/master/0078-subsets) |
+| [0090-subsets-ii](https://github.com/Kanishk-Srivastava/Code/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/Kanishk-Srivastava/Code/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/Kanishk-Srivastava/Code/tree/master/0268-missing-number) |
 ## Counting
@@ -377,4 +379,5 @@ This is just a test folder
 | [0039-combination-sum](https://github.com/Kanishk-Srivastava/Code/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Kanishk-Srivastava/Code/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/Kanishk-Srivastava/Code/tree/master/0078-subsets) |
+| [0090-subsets-ii](https://github.com/Kanishk-Srivastava/Code/tree/master/0090-subsets-ii) |
 <!---LeetCode Topics End-->
