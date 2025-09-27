@@ -253,6 +253,7 @@ This is just a test folder
 | [0048-rotate-image](https://github.com/Kanishk-Srivastava/Code/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/Kanishk-Srivastava/Code/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Kanishk-Srivastava/Code/tree/master/0268-missing-number) |
+| [0282-expression-add-operators](https://github.com/Kanishk-Srivastava/Code/tree/master/0282-expression-add-operators) |
 | [0556-next-greater-element-iii](https://github.com/Kanishk-Srivastava/Code/tree/master/0556-next-greater-element-iii) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Kanishk-Srivastava/Code/tree/master/1477-product-of-the-last-k-numbers) |
 | [2032-largest-odd-number-in-string](https://github.com/Kanishk-Srivastava/Code/tree/master/2032-largest-odd-number-in-string) |
@@ -273,6 +274,7 @@ This is just a test folder
 | [0151-reverse-words-in-a-string](https://github.com/Kanishk-Srivastava/Code/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/Kanishk-Srivastava/Code/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Kanishk-Srivastava/Code/tree/master/0242-valid-anagram) |
+| [0282-expression-add-operators](https://github.com/Kanishk-Srivastava/Code/tree/master/0282-expression-add-operators) |
 | [0344-reverse-string](https://github.com/Kanishk-Srivastava/Code/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Kanishk-Srivastava/Code/tree/master/0345-reverse-vowels-of-a-string) |
 | [0443-string-compression](https://github.com/Kanishk-Srivastava/Code/tree/master/0443-string-compression) |
@@ -397,6 +399,7 @@ This is just a test folder
 | [0079-word-search](https://github.com/Kanishk-Srivastava/Code/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/Kanishk-Srivastava/Code/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/Kanishk-Srivastava/Code/tree/master/0131-palindrome-partitioning) |
+| [0282-expression-add-operators](https://github.com/Kanishk-Srivastava/Code/tree/master/0282-expression-add-operators) |
 ## Depth-First Search
 |  |
 | ------- |
