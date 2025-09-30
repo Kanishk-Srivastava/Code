@@ -250,6 +250,7 @@ This is just a test folder
 | ------- |
 | [0002-add-two-numbers](https://github.com/Kanishk-Srivastava/Code/tree/master/0002-add-two-numbers) |
 | [0013-roman-to-integer](https://github.com/Kanishk-Srivastava/Code/tree/master/0013-roman-to-integer) |
+| [0029-divide-two-integers](https://github.com/Kanishk-Srivastava/Code/tree/master/0029-divide-two-integers) |
 | [0048-rotate-image](https://github.com/Kanishk-Srivastava/Code/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/Kanishk-Srivastava/Code/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/Kanishk-Srivastava/Code/tree/master/0231-power-of-two) |
@@ -318,6 +319,7 @@ This is just a test folder
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/Kanishk-Srivastava/Code/tree/master/0029-divide-two-integers) |
 | [0078-subsets](https://github.com/Kanishk-Srivastava/Code/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Kanishk-Srivastava/Code/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/Kanishk-Srivastava/Code/tree/master/0136-single-number) |
