@@ -306,6 +306,7 @@ This is just a test folder
 ## Stack
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/Kanishk-Srivastava/Code/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/Kanishk-Srivastava/Code/tree/master/0234-palindrome-linked-list) |
 | [1078-remove-outermost-parentheses](https://github.com/Kanishk-Srivastava/Code/tree/master/1078-remove-outermost-parentheses) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Kanishk-Srivastava/Code/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
@@ -313,6 +314,7 @@ This is just a test folder
 ## Design
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/Kanishk-Srivastava/Code/tree/master/0225-implement-stack-using-queues) |
 | [0303-range-sum-query-immutable](https://github.com/Kanishk-Srivastava/Code/tree/master/0303-range-sum-query-immutable) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Kanishk-Srivastava/Code/tree/master/1477-product-of-the-last-k-numbers) |
 ## Data Stream
@@ -426,4 +428,8 @@ This is just a test folder
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Kanishk-Srivastava/Code/tree/master/0204-count-primes) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/Kanishk-Srivastava/Code/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
