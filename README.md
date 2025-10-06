@@ -56,6 +56,7 @@ This is just a test folder
 | [0503-next-greater-element-ii](https://github.com/Kanishk-Srivastava/Code/tree/master/0503-next-greater-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Kanishk-Srivastava/Code/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Kanishk-Srivastava/Code/tree/master/0560-subarray-sum-equals-k) |
+| [0735-asteroid-collision](https://github.com/Kanishk-Srivastava/Code/tree/master/0735-asteroid-collision) |
 | [0792-binary-search](https://github.com/Kanishk-Srivastava/Code/tree/master/0792-binary-search) |
 | [0841-shortest-distance-to-a-character](https://github.com/Kanishk-Srivastava/Code/tree/master/0841-shortest-distance-to-a-character) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Kanishk-Srivastava/Code/tree/master/0882-peak-index-in-a-mountain-array) |
@@ -250,6 +251,7 @@ This is just a test folder
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Kanishk-Srivastava/Code/tree/master/0054-spiral-matrix) |
+| [0735-asteroid-collision](https://github.com/Kanishk-Srivastava/Code/tree/master/0735-asteroid-collision) |
 | [2228-watering-plants-ii](https://github.com/Kanishk-Srivastava/Code/tree/master/2228-watering-plants-ii) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Kanishk-Srivastava/Code/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Kanishk-Srivastava/Code/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -323,6 +325,7 @@ This is just a test folder
 | [0234-palindrome-linked-list](https://github.com/Kanishk-Srivastava/Code/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/Kanishk-Srivastava/Code/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Kanishk-Srivastava/Code/tree/master/0503-next-greater-element-ii) |
+| [0735-asteroid-collision](https://github.com/Kanishk-Srivastava/Code/tree/master/0735-asteroid-collision) |
 | [0943-sum-of-subarray-minimums](https://github.com/Kanishk-Srivastava/Code/tree/master/0943-sum-of-subarray-minimums) |
 | [1078-remove-outermost-parentheses](https://github.com/Kanishk-Srivastava/Code/tree/master/1078-remove-outermost-parentheses) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Kanishk-Srivastava/Code/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
