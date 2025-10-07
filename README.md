@@ -124,6 +124,7 @@ This is just a test folder
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Kanishk-Srivastava/Code/tree/master/0011-container-with-most-water) |
+| [0402-remove-k-digits](https://github.com/Kanishk-Srivastava/Code/tree/master/0402-remove-k-digits) |
 | [0410-split-array-largest-sum](https://github.com/Kanishk-Srivastava/Code/tree/master/0410-split-array-largest-sum) |
 | [0680-valid-palindrome-ii](https://github.com/Kanishk-Srivastava/Code/tree/master/0680-valid-palindrome-ii) |
 | [0979-di-string-match](https://github.com/Kanishk-Srivastava/Code/tree/master/0979-di-string-match) |
@@ -294,6 +295,7 @@ This is just a test folder
 | [0282-expression-add-operators](https://github.com/Kanishk-Srivastava/Code/tree/master/0282-expression-add-operators) |
 | [0344-reverse-string](https://github.com/Kanishk-Srivastava/Code/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Kanishk-Srivastava/Code/tree/master/0345-reverse-vowels-of-a-string) |
+| [0402-remove-k-digits](https://github.com/Kanishk-Srivastava/Code/tree/master/0402-remove-k-digits) |
 | [0443-string-compression](https://github.com/Kanishk-Srivastava/Code/tree/master/0443-string-compression) |
 | [0451-sort-characters-by-frequency](https://github.com/Kanishk-Srivastava/Code/tree/master/0451-sort-characters-by-frequency) |
 | [0556-next-greater-element-iii](https://github.com/Kanishk-Srivastava/Code/tree/master/0556-next-greater-element-iii) |
@@ -324,6 +326,7 @@ This is just a test folder
 | [0225-implement-stack-using-queues](https://github.com/Kanishk-Srivastava/Code/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Kanishk-Srivastava/Code/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/Kanishk-Srivastava/Code/tree/master/0234-palindrome-linked-list) |
+| [0402-remove-k-digits](https://github.com/Kanishk-Srivastava/Code/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/Kanishk-Srivastava/Code/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Kanishk-Srivastava/Code/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/Kanishk-Srivastava/Code/tree/master/0735-asteroid-collision) |
@@ -460,6 +463,7 @@ This is just a test folder
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Kanishk-Srivastava/Code/tree/master/0042-trapping-rain-water) |
+| [0402-remove-k-digits](https://github.com/Kanishk-Srivastava/Code/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/Kanishk-Srivastava/Code/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Kanishk-Srivastava/Code/tree/master/0503-next-greater-element-ii) |
 | [0943-sum-of-subarray-minimums](https://github.com/Kanishk-Srivastava/Code/tree/master/0943-sum-of-subarray-minimums) |
