@@ -73,6 +73,7 @@ This is just a test folder
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Kanishk-Srivastava/Code/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1923-sentence-similarity-iii](https://github.com/Kanishk-Srivastava/Code/tree/master/1923-sentence-similarity-iii) |
 | [2047-find-a-peak-element-ii](https://github.com/Kanishk-Srivastava/Code/tree/master/2047-find-a-peak-element-ii) |
+| [2227-sum-of-subarray-ranges](https://github.com/Kanishk-Srivastava/Code/tree/master/2227-sum-of-subarray-ranges) |
 | [2228-watering-plants-ii](https://github.com/Kanishk-Srivastava/Code/tree/master/2228-watering-plants-ii) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Kanishk-Srivastava/Code/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Kanishk-Srivastava/Code/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -330,6 +331,7 @@ This is just a test folder
 | [1078-remove-outermost-parentheses](https://github.com/Kanishk-Srivastava/Code/tree/master/1078-remove-outermost-parentheses) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Kanishk-Srivastava/Code/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [2128-reverse-prefix-of-word](https://github.com/Kanishk-Srivastava/Code/tree/master/2128-reverse-prefix-of-word) |
+| [2227-sum-of-subarray-ranges](https://github.com/Kanishk-Srivastava/Code/tree/master/2227-sum-of-subarray-ranges) |
 ## Design
 |  |
 | ------- |
@@ -461,4 +463,5 @@ This is just a test folder
 | [0496-next-greater-element-i](https://github.com/Kanishk-Srivastava/Code/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Kanishk-Srivastava/Code/tree/master/0503-next-greater-element-ii) |
 | [0943-sum-of-subarray-minimums](https://github.com/Kanishk-Srivastava/Code/tree/master/0943-sum-of-subarray-minimums) |
+| [2227-sum-of-subarray-ranges](https://github.com/Kanishk-Srivastava/Code/tree/master/2227-sum-of-subarray-ranges) |
 <!---LeetCode Topics End-->
