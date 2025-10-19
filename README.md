@@ -68,6 +68,7 @@ This is just a test folder
 | [0943-sum-of-subarray-minimums](https://github.com/Kanishk-Srivastava/Code/tree/master/0943-sum-of-subarray-minimums) |
 | [0958-sort-array-by-parity-ii](https://github.com/Kanishk-Srivastava/Code/tree/master/0958-sort-array-by-parity-ii) |
 | [0979-di-string-match](https://github.com/Kanishk-Srivastava/Code/tree/master/0979-di-string-match) |
+| [1046-max-consecutive-ones-iii](https://github.com/Kanishk-Srivastava/Code/tree/master/1046-max-consecutive-ones-iii) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Kanishk-Srivastava/Code/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Kanishk-Srivastava/Code/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Kanishk-Srivastava/Code/tree/master/1477-product-of-the-last-k-numbers) |
@@ -104,6 +105,7 @@ This is just a test folder
 | [0792-binary-search](https://github.com/Kanishk-Srivastava/Code/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Kanishk-Srivastava/Code/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0907-koko-eating-bananas](https://github.com/Kanishk-Srivastava/Code/tree/master/0907-koko-eating-bananas) |
+| [1046-max-consecutive-ones-iii](https://github.com/Kanishk-Srivastava/Code/tree/master/1046-max-consecutive-ones-iii) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Kanishk-Srivastava/Code/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Kanishk-Srivastava/Code/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Kanishk-Srivastava/Code/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
@@ -142,6 +144,7 @@ This is just a test folder
 | [0303-range-sum-query-immutable](https://github.com/Kanishk-Srivastava/Code/tree/master/0303-range-sum-query-immutable) |
 | [0410-split-array-largest-sum](https://github.com/Kanishk-Srivastava/Code/tree/master/0410-split-array-largest-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Kanishk-Srivastava/Code/tree/master/0560-subarray-sum-equals-k) |
+| [1046-max-consecutive-ones-iii](https://github.com/Kanishk-Srivastava/Code/tree/master/1046-max-consecutive-ones-iii) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Kanishk-Srivastava/Code/tree/master/1477-product-of-the-last-k-numbers) |
 | [2576-minimum-penalty-for-a-shop](https://github.com/Kanishk-Srivastava/Code/tree/master/2576-minimum-penalty-for-a-shop) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Kanishk-Srivastava/Code/tree/master/2691-count-vowel-strings-in-ranges) |
@@ -492,6 +495,7 @@ This is just a test folder
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Kanishk-Srivastava/Code/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0239-sliding-window-maximum](https://github.com/Kanishk-Srivastava/Code/tree/master/0239-sliding-window-maximum) |
+| [1046-max-consecutive-ones-iii](https://github.com/Kanishk-Srivastava/Code/tree/master/1046-max-consecutive-ones-iii) |
 ## Monotonic Queue
 |  |
 | ------- |
