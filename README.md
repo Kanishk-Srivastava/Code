@@ -67,6 +67,7 @@ This is just a test folder
 | [0941-sort-array-by-parity](https://github.com/Kanishk-Srivastava/Code/tree/master/0941-sort-array-by-parity) |
 | [0943-sum-of-subarray-minimums](https://github.com/Kanishk-Srivastava/Code/tree/master/0943-sum-of-subarray-minimums) |
 | [0958-sort-array-by-parity-ii](https://github.com/Kanishk-Srivastava/Code/tree/master/0958-sort-array-by-parity-ii) |
+| [0966-binary-subarrays-with-sum](https://github.com/Kanishk-Srivastava/Code/tree/master/0966-binary-subarrays-with-sum) |
 | [0979-di-string-match](https://github.com/Kanishk-Srivastava/Code/tree/master/0979-di-string-match) |
 | [1046-max-consecutive-ones-iii](https://github.com/Kanishk-Srivastava/Code/tree/master/1046-max-consecutive-ones-iii) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Kanishk-Srivastava/Code/tree/master/1056-capacity-to-ship-packages-within-d-days) |
@@ -144,6 +145,7 @@ This is just a test folder
 | [0303-range-sum-query-immutable](https://github.com/Kanishk-Srivastava/Code/tree/master/0303-range-sum-query-immutable) |
 | [0410-split-array-largest-sum](https://github.com/Kanishk-Srivastava/Code/tree/master/0410-split-array-largest-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Kanishk-Srivastava/Code/tree/master/0560-subarray-sum-equals-k) |
+| [0966-binary-subarrays-with-sum](https://github.com/Kanishk-Srivastava/Code/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/Kanishk-Srivastava/Code/tree/master/1046-max-consecutive-ones-iii) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Kanishk-Srivastava/Code/tree/master/1477-product-of-the-last-k-numbers) |
 | [2576-minimum-penalty-for-a-shop](https://github.com/Kanishk-Srivastava/Code/tree/master/2576-minimum-penalty-for-a-shop) |
@@ -242,6 +244,7 @@ This is just a test folder
 | [0460-lfu-cache](https://github.com/Kanishk-Srivastava/Code/tree/master/0460-lfu-cache) |
 | [0496-next-greater-element-i](https://github.com/Kanishk-Srivastava/Code/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/Kanishk-Srivastava/Code/tree/master/0560-subarray-sum-equals-k) |
+| [0966-binary-subarrays-with-sum](https://github.com/Kanishk-Srivastava/Code/tree/master/0966-binary-subarrays-with-sum) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Kanishk-Srivastava/Code/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 ## Sorting
 |  |
@@ -495,6 +498,7 @@ This is just a test folder
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Kanishk-Srivastava/Code/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0239-sliding-window-maximum](https://github.com/Kanishk-Srivastava/Code/tree/master/0239-sliding-window-maximum) |
+| [0966-binary-subarrays-with-sum](https://github.com/Kanishk-Srivastava/Code/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/Kanishk-Srivastava/Code/tree/master/1046-max-consecutive-ones-iii) |
 ## Monotonic Queue
 |  |
