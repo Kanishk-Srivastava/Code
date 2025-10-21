@@ -74,6 +74,7 @@ This is just a test folder
 | [1370-count-number-of-nice-subarrays](https://github.com/Kanishk-Srivastava/Code/tree/master/1370-count-number-of-nice-subarrays) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Kanishk-Srivastava/Code/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Kanishk-Srivastava/Code/tree/master/1477-product-of-the-last-k-numbers) |
+| [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Kanishk-Srivastava/Code/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Kanishk-Srivastava/Code/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1646-kth-missing-positive-number](https://github.com/Kanishk-Srivastava/Code/tree/master/1646-kth-missing-positive-number) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Kanishk-Srivastava/Code/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -150,6 +151,7 @@ This is just a test folder
 | [1046-max-consecutive-ones-iii](https://github.com/Kanishk-Srivastava/Code/tree/master/1046-max-consecutive-ones-iii) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Kanishk-Srivastava/Code/tree/master/1370-count-number-of-nice-subarrays) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Kanishk-Srivastava/Code/tree/master/1477-product-of-the-last-k-numbers) |
+| [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Kanishk-Srivastava/Code/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [2576-minimum-penalty-for-a-shop](https://github.com/Kanishk-Srivastava/Code/tree/master/2576-minimum-penalty-for-a-shop) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Kanishk-Srivastava/Code/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2714-left-and-right-sum-differences](https://github.com/Kanishk-Srivastava/Code/tree/master/2714-left-and-right-sum-differences) |
@@ -508,6 +510,7 @@ This is just a test folder
 | [1046-max-consecutive-ones-iii](https://github.com/Kanishk-Srivastava/Code/tree/master/1046-max-consecutive-ones-iii) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Kanishk-Srivastava/Code/tree/master/1370-count-number-of-nice-subarrays) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Kanishk-Srivastava/Code/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Kanishk-Srivastava/Code/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 ## Monotonic Queue
 |  |
 | ------- |
