@@ -161,6 +161,7 @@ This is just a test folder
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Kanishk-Srivastava/Code/tree/master/0004-median-of-two-sorted-arrays) |
+| [0023-merge-k-sorted-lists](https://github.com/Kanishk-Srivastava/Code/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/Kanishk-Srivastava/Code/tree/master/0053-maximum-subarray) |
 | [0148-sort-list](https://github.com/Kanishk-Srivastava/Code/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/Kanishk-Srivastava/Code/tree/master/0169-majority-element) |
@@ -409,6 +410,7 @@ This is just a test folder
 ## Merge Sort
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Kanishk-Srivastava/Code/tree/master/0023-merge-k-sorted-lists) |
 | [0148-sort-list](https://github.com/Kanishk-Srivastava/Code/tree/master/0148-sort-list) |
 | [0493-reverse-pairs](https://github.com/Kanishk-Srivastava/Code/tree/master/0493-reverse-pairs) |
 ## Ordered Set
@@ -427,6 +429,7 @@ This is just a test folder
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Kanishk-Srivastava/Code/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Kanishk-Srivastava/Code/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/Kanishk-Srivastava/Code/tree/master/0239-sliding-window-maximum) |
 | [0451-sort-characters-by-frequency](https://github.com/Kanishk-Srivastava/Code/tree/master/0451-sort-characters-by-frequency) |
@@ -439,6 +442,7 @@ This is just a test folder
 | ------- |
 | [0002-add-two-numbers](https://github.com/Kanishk-Srivastava/Code/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Kanishk-Srivastava/Code/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0023-merge-k-sorted-lists](https://github.com/Kanishk-Srivastava/Code/tree/master/0023-merge-k-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/Kanishk-Srivastava/Code/tree/master/0025-reverse-nodes-in-k-group) |
 | [0061-rotate-list](https://github.com/Kanishk-Srivastava/Code/tree/master/0061-rotate-list) |
 | [0138-copy-list-with-random-pointer](https://github.com/Kanishk-Srivastava/Code/tree/master/0138-copy-list-with-random-pointer) |
