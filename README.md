@@ -60,6 +60,7 @@ This is just a test folder
 | [0503-next-greater-element-ii](https://github.com/Kanishk-Srivastava/Code/tree/master/0503-next-greater-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Kanishk-Srivastava/Code/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Kanishk-Srivastava/Code/tree/master/0560-subarray-sum-equals-k) |
+| [0621-task-scheduler](https://github.com/Kanishk-Srivastava/Code/tree/master/0621-task-scheduler) |
 | [0735-asteroid-collision](https://github.com/Kanishk-Srivastava/Code/tree/master/0735-asteroid-collision) |
 | [0792-binary-search](https://github.com/Kanishk-Srivastava/Code/tree/master/0792-binary-search) |
 | [0841-shortest-distance-to-a-character](https://github.com/Kanishk-Srivastava/Code/tree/master/0841-shortest-distance-to-a-character) |
@@ -137,6 +138,7 @@ This is just a test folder
 | [0011-container-with-most-water](https://github.com/Kanishk-Srivastava/Code/tree/master/0011-container-with-most-water) |
 | [0402-remove-k-digits](https://github.com/Kanishk-Srivastava/Code/tree/master/0402-remove-k-digits) |
 | [0410-split-array-largest-sum](https://github.com/Kanishk-Srivastava/Code/tree/master/0410-split-array-largest-sum) |
+| [0621-task-scheduler](https://github.com/Kanishk-Srivastava/Code/tree/master/0621-task-scheduler) |
 | [0680-valid-palindrome-ii](https://github.com/Kanishk-Srivastava/Code/tree/master/0680-valid-palindrome-ii) |
 | [0979-di-string-match](https://github.com/Kanishk-Srivastava/Code/tree/master/0979-di-string-match) |
 | [1880-largest-merge-of-two-strings](https://github.com/Kanishk-Srivastava/Code/tree/master/1880-largest-merge-of-two-strings) |
@@ -253,6 +255,7 @@ This is just a test folder
 | [0460-lfu-cache](https://github.com/Kanishk-Srivastava/Code/tree/master/0460-lfu-cache) |
 | [0496-next-greater-element-i](https://github.com/Kanishk-Srivastava/Code/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/Kanishk-Srivastava/Code/tree/master/0560-subarray-sum-equals-k) |
+| [0621-task-scheduler](https://github.com/Kanishk-Srivastava/Code/tree/master/0621-task-scheduler) |
 | [0966-binary-subarrays-with-sum](https://github.com/Kanishk-Srivastava/Code/tree/master/0966-binary-subarrays-with-sum) |
 | [1034-subarrays-with-k-different-integers](https://github.com/Kanishk-Srivastava/Code/tree/master/1034-subarrays-with-k-different-integers) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Kanishk-Srivastava/Code/tree/master/1370-count-number-of-nice-subarrays) |
@@ -274,6 +277,7 @@ This is just a test folder
 | [0242-valid-anagram](https://github.com/Kanishk-Srivastava/Code/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Kanishk-Srivastava/Code/tree/master/0268-missing-number) |
 | [0451-sort-characters-by-frequency](https://github.com/Kanishk-Srivastava/Code/tree/master/0451-sort-characters-by-frequency) |
+| [0621-task-scheduler](https://github.com/Kanishk-Srivastava/Code/tree/master/0621-task-scheduler) |
 | [0941-sort-array-by-parity](https://github.com/Kanishk-Srivastava/Code/tree/master/0941-sort-array-by-parity) |
 | [0958-sort-array-by-parity-ii](https://github.com/Kanishk-Srivastava/Code/tree/master/0958-sort-array-by-parity-ii) |
 ## Simulation
@@ -398,6 +402,7 @@ This is just a test folder
 | [0169-majority-element](https://github.com/Kanishk-Srivastava/Code/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Kanishk-Srivastava/Code/tree/master/0229-majority-element-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/Kanishk-Srivastava/Code/tree/master/0451-sort-characters-by-frequency) |
+| [0621-task-scheduler](https://github.com/Kanishk-Srivastava/Code/tree/master/0621-task-scheduler) |
 | [1034-subarrays-with-k-different-integers](https://github.com/Kanishk-Srivastava/Code/tree/master/1034-subarrays-with-k-different-integers) |
 ## Binary Indexed Tree
 |  |
@@ -433,6 +438,7 @@ This is just a test folder
 | [0215-kth-largest-element-in-an-array](https://github.com/Kanishk-Srivastava/Code/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/Kanishk-Srivastava/Code/tree/master/0239-sliding-window-maximum) |
 | [0451-sort-characters-by-frequency](https://github.com/Kanishk-Srivastava/Code/tree/master/0451-sort-characters-by-frequency) |
+| [0621-task-scheduler](https://github.com/Kanishk-Srivastava/Code/tree/master/0621-task-scheduler) |
 ## Bucket Sort
 |  |
 | ------- |
