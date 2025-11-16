@@ -64,6 +64,7 @@ This is just a test folder
 | [0735-asteroid-collision](https://github.com/Kanishk-Srivastava/Code/tree/master/0735-asteroid-collision) |
 | [0792-binary-search](https://github.com/Kanishk-Srivastava/Code/tree/master/0792-binary-search) |
 | [0841-shortest-distance-to-a-character](https://github.com/Kanishk-Srivastava/Code/tree/master/0841-shortest-distance-to-a-character) |
+| [0876-hand-of-straights](https://github.com/Kanishk-Srivastava/Code/tree/master/0876-hand-of-straights) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Kanishk-Srivastava/Code/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0907-koko-eating-bananas](https://github.com/Kanishk-Srivastava/Code/tree/master/0907-koko-eating-bananas) |
 | [0941-sort-array-by-parity](https://github.com/Kanishk-Srivastava/Code/tree/master/0941-sort-array-by-parity) |
@@ -140,6 +141,7 @@ This is just a test folder
 | [0410-split-array-largest-sum](https://github.com/Kanishk-Srivastava/Code/tree/master/0410-split-array-largest-sum) |
 | [0621-task-scheduler](https://github.com/Kanishk-Srivastava/Code/tree/master/0621-task-scheduler) |
 | [0680-valid-palindrome-ii](https://github.com/Kanishk-Srivastava/Code/tree/master/0680-valid-palindrome-ii) |
+| [0876-hand-of-straights](https://github.com/Kanishk-Srivastava/Code/tree/master/0876-hand-of-straights) |
 | [0979-di-string-match](https://github.com/Kanishk-Srivastava/Code/tree/master/0979-di-string-match) |
 | [1880-largest-merge-of-two-strings](https://github.com/Kanishk-Srivastava/Code/tree/master/1880-largest-merge-of-two-strings) |
 | [2032-largest-odd-number-in-string](https://github.com/Kanishk-Srivastava/Code/tree/master/2032-largest-odd-number-in-string) |
@@ -256,6 +258,7 @@ This is just a test folder
 | [0496-next-greater-element-i](https://github.com/Kanishk-Srivastava/Code/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/Kanishk-Srivastava/Code/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/Kanishk-Srivastava/Code/tree/master/0621-task-scheduler) |
+| [0876-hand-of-straights](https://github.com/Kanishk-Srivastava/Code/tree/master/0876-hand-of-straights) |
 | [0966-binary-subarrays-with-sum](https://github.com/Kanishk-Srivastava/Code/tree/master/0966-binary-subarrays-with-sum) |
 | [1034-subarrays-with-k-different-integers](https://github.com/Kanishk-Srivastava/Code/tree/master/1034-subarrays-with-k-different-integers) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Kanishk-Srivastava/Code/tree/master/1370-count-number-of-nice-subarrays) |
@@ -278,6 +281,7 @@ This is just a test folder
 | [0268-missing-number](https://github.com/Kanishk-Srivastava/Code/tree/master/0268-missing-number) |
 | [0451-sort-characters-by-frequency](https://github.com/Kanishk-Srivastava/Code/tree/master/0451-sort-characters-by-frequency) |
 | [0621-task-scheduler](https://github.com/Kanishk-Srivastava/Code/tree/master/0621-task-scheduler) |
+| [0876-hand-of-straights](https://github.com/Kanishk-Srivastava/Code/tree/master/0876-hand-of-straights) |
 | [0941-sort-array-by-parity](https://github.com/Kanishk-Srivastava/Code/tree/master/0941-sort-array-by-parity) |
 | [0958-sort-array-by-parity-ii](https://github.com/Kanishk-Srivastava/Code/tree/master/0958-sort-array-by-parity-ii) |
 ## Simulation
