@@ -223,6 +223,7 @@ This is just a test folder
 | [1850-minimum-length-of-string-after-deleting-similar-ends](https://github.com/Kanishk-Srivastava/Code/tree/master/1850-minimum-length-of-string-after-deleting-similar-ends) |
 | [1880-largest-merge-of-two-strings](https://github.com/Kanishk-Srivastava/Code/tree/master/1880-largest-merge-of-two-strings) |
 | [1923-sentence-similarity-iii](https://github.com/Kanishk-Srivastava/Code/tree/master/1923-sentence-similarity-iii) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Kanishk-Srivastava/Code/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2128-reverse-prefix-of-word](https://github.com/Kanishk-Srivastava/Code/tree/master/2128-reverse-prefix-of-word) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Kanishk-Srivastava/Code/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2228-watering-plants-ii](https://github.com/Kanishk-Srivastava/Code/tree/master/2228-watering-plants-ii) |
@@ -469,6 +470,7 @@ This is just a test folder
 | [0460-lfu-cache](https://github.com/Kanishk-Srivastava/Code/tree/master/0460-lfu-cache) |
 | [0876-middle-of-the-linked-list](https://github.com/Kanishk-Srivastava/Code/tree/master/0876-middle-of-the-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/Kanishk-Srivastava/Code/tree/master/0908-middle-of-the-linked-list) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Kanishk-Srivastava/Code/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Kanishk-Srivastava/Code/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## Recursion
 |  |
