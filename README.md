@@ -144,6 +144,7 @@ This is just a test folder
 | [0876-hand-of-straights](https://github.com/Kanishk-Srivastava/Code/tree/master/0876-hand-of-straights) |
 | [0979-di-string-match](https://github.com/Kanishk-Srivastava/Code/tree/master/0979-di-string-match) |
 | [1880-largest-merge-of-two-strings](https://github.com/Kanishk-Srivastava/Code/tree/master/1880-largest-merge-of-two-strings) |
+| [1903-largest-odd-number-in-string](https://github.com/Kanishk-Srivastava/Code/tree/master/1903-largest-odd-number-in-string) |
 | [2032-largest-odd-number-in-string](https://github.com/Kanishk-Srivastava/Code/tree/master/2032-largest-odd-number-in-string) |
 | [3195-separate-black-and-white-balls](https://github.com/Kanishk-Srivastava/Code/tree/master/3195-separate-black-and-white-balls) |
 ## Prefix Sum
@@ -311,6 +312,7 @@ This is just a test folder
 | [0556-next-greater-element-iii](https://github.com/Kanishk-Srivastava/Code/tree/master/0556-next-greater-element-iii) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Kanishk-Srivastava/Code/tree/master/1370-count-number-of-nice-subarrays) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Kanishk-Srivastava/Code/tree/master/1477-product-of-the-last-k-numbers) |
+| [1903-largest-odd-number-in-string](https://github.com/Kanishk-Srivastava/Code/tree/master/1903-largest-odd-number-in-string) |
 | [2032-largest-odd-number-in-string](https://github.com/Kanishk-Srivastava/Code/tree/master/2032-largest-odd-number-in-string) |
 | [2050-count-good-numbers](https://github.com/Kanishk-Srivastava/Code/tree/master/2050-count-good-numbers) |
 ## String
@@ -351,6 +353,7 @@ This is just a test folder
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Kanishk-Srivastava/Code/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1850-minimum-length-of-string-after-deleting-similar-ends](https://github.com/Kanishk-Srivastava/Code/tree/master/1850-minimum-length-of-string-after-deleting-similar-ends) |
 | [1880-largest-merge-of-two-strings](https://github.com/Kanishk-Srivastava/Code/tree/master/1880-largest-merge-of-two-strings) |
+| [1903-largest-odd-number-in-string](https://github.com/Kanishk-Srivastava/Code/tree/master/1903-largest-odd-number-in-string) |
 | [1923-sentence-similarity-iii](https://github.com/Kanishk-Srivastava/Code/tree/master/1923-sentence-similarity-iii) |
 | [2032-largest-odd-number-in-string](https://github.com/Kanishk-Srivastava/Code/tree/master/2032-largest-odd-number-in-string) |
 | [2128-reverse-prefix-of-word](https://github.com/Kanishk-Srivastava/Code/tree/master/2128-reverse-prefix-of-word) |
