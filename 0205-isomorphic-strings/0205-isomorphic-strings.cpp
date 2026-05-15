@@ -4,19 +4,17 @@ public:
         unordered_map<char, char> mp1;
         unordered_map<char, char> mp2;
 
-        int m = s.length();
+        for (int i = 0; i < s.size(); i++) {
+            char a = s[i];
+            char b = t[i];
 
-        for (int i = 0; i < m; i++) {
-            char ch1 = s[i];
-            char ch2 = t[i];
-
-            if ((mp1.find(ch1) != mp1.end() && mp1[ch1] != ch2) ||
-                (mp2.find(ch2) != mp2.end() && mp2[ch2] != ch1)) {
+            if ((mp1.count(a) && mp1[a] != b) || (mp2.count(b) && mp2[b] != a))
                 return false;
-            }
-            mp1[ch1] = ch2; 
-            mp2[ch2] = ch1; 
+
+            mp1[a] = b;
+            mp2[b] = a;
         }
+
         return true;
     }
 };
