@@ -14,14 +14,15 @@ public:
         int n = s.size(); 
         int total = 0; 
 
-        for(int i=0; i<n; i++){
+        for(int i = 0; i<n; i++){
             int current = val[s[i]]; 
-            int next = (i + 1 < n) ? val[s[i+1]] : 0; 
+            int next = (i+1 < n) ? val[s[i+1]] : 0; 
 
             if(current < next){
                 total -= current; 
             } else total += current; 
         }
+
         return total; 
     }
 };
