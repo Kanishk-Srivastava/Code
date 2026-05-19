@@ -266,6 +266,7 @@ This is just a test folder
 | [1034-subarrays-with-k-different-integers](https://github.com/Kanishk-Srivastava/Code/tree/master/1034-subarrays-with-k-different-integers) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Kanishk-Srivastava/Code/tree/master/1370-count-number-of-nice-subarrays) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Kanishk-Srivastava/Code/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/Kanishk-Srivastava/Code/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Kanishk-Srivastava/Code/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 ## Sorting
 |  |
@@ -352,6 +353,7 @@ This is just a test folder
 | [1078-remove-outermost-parentheses](https://github.com/Kanishk-Srivastava/Code/tree/master/1078-remove-outermost-parentheses) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Kanishk-Srivastava/Code/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Kanishk-Srivastava/Code/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/Kanishk-Srivastava/Code/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1850-minimum-length-of-string-after-deleting-similar-ends](https://github.com/Kanishk-Srivastava/Code/tree/master/1850-minimum-length-of-string-after-deleting-similar-ends) |
 | [1880-largest-merge-of-two-strings](https://github.com/Kanishk-Srivastava/Code/tree/master/1880-largest-merge-of-two-strings) |
 | [1903-largest-odd-number-in-string](https://github.com/Kanishk-Srivastava/Code/tree/master/1903-largest-odd-number-in-string) |
@@ -416,6 +418,7 @@ This is just a test folder
 | [0451-sort-characters-by-frequency](https://github.com/Kanishk-Srivastava/Code/tree/master/0451-sort-characters-by-frequency) |
 | [0621-task-scheduler](https://github.com/Kanishk-Srivastava/Code/tree/master/0621-task-scheduler) |
 | [1034-subarrays-with-k-different-integers](https://github.com/Kanishk-Srivastava/Code/tree/master/1034-subarrays-with-k-different-integers) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/Kanishk-Srivastava/Code/tree/master/1781-sum-of-beauty-of-all-substrings) |
 ## Binary Indexed Tree
 |  |
 | ------- |
