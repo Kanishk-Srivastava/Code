@@ -61,6 +61,7 @@ This is just a test folder
 | [0540-single-element-in-a-sorted-array](https://github.com/Kanishk-Srivastava/Code/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Kanishk-Srivastava/Code/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/Kanishk-Srivastava/Code/tree/master/0621-task-scheduler) |
+| [0704-binary-search](https://github.com/Kanishk-Srivastava/Code/tree/master/0704-binary-search) |
 | [0735-asteroid-collision](https://github.com/Kanishk-Srivastava/Code/tree/master/0735-asteroid-collision) |
 | [0792-binary-search](https://github.com/Kanishk-Srivastava/Code/tree/master/0792-binary-search) |
 | [0841-shortest-distance-to-a-character](https://github.com/Kanishk-Srivastava/Code/tree/master/0841-shortest-distance-to-a-character) |
@@ -109,6 +110,7 @@ This is just a test folder
 | [0410-split-array-largest-sum](https://github.com/Kanishk-Srivastava/Code/tree/master/0410-split-array-largest-sum) |
 | [0493-reverse-pairs](https://github.com/Kanishk-Srivastava/Code/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Kanishk-Srivastava/Code/tree/master/0540-single-element-in-a-sorted-array) |
+| [0704-binary-search](https://github.com/Kanishk-Srivastava/Code/tree/master/0704-binary-search) |
 | [0792-binary-search](https://github.com/Kanishk-Srivastava/Code/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Kanishk-Srivastava/Code/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0907-koko-eating-bananas](https://github.com/Kanishk-Srivastava/Code/tree/master/0907-koko-eating-bananas) |
