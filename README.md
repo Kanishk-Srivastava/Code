@@ -74,6 +74,7 @@ This is just a test folder
 | [0958-sort-array-by-parity-ii](https://github.com/Kanishk-Srivastava/Code/tree/master/0958-sort-array-by-parity-ii) |
 | [0966-binary-subarrays-with-sum](https://github.com/Kanishk-Srivastava/Code/tree/master/0966-binary-subarrays-with-sum) |
 | [0979-di-string-match](https://github.com/Kanishk-Srivastava/Code/tree/master/0979-di-string-match) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/Kanishk-Srivastava/Code/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1034-subarrays-with-k-different-integers](https://github.com/Kanishk-Srivastava/Code/tree/master/1034-subarrays-with-k-different-integers) |
 | [1046-max-consecutive-ones-iii](https://github.com/Kanishk-Srivastava/Code/tree/master/1046-max-consecutive-ones-iii) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Kanishk-Srivastava/Code/tree/master/1056-capacity-to-ship-packages-within-d-days) |
@@ -118,6 +119,7 @@ This is just a test folder
 | [0875-koko-eating-bananas](https://github.com/Kanishk-Srivastava/Code/tree/master/0875-koko-eating-bananas) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Kanishk-Srivastava/Code/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0907-koko-eating-bananas](https://github.com/Kanishk-Srivastava/Code/tree/master/0907-koko-eating-bananas) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/Kanishk-Srivastava/Code/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1046-max-consecutive-ones-iii](https://github.com/Kanishk-Srivastava/Code/tree/master/1046-max-consecutive-ones-iii) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Kanishk-Srivastava/Code/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Kanishk-Srivastava/Code/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
