@@ -96,6 +96,7 @@ This is just a test folder
 | [2271-rearrange-array-elements-by-sign](https://github.com/Kanishk-Srivastava/Code/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/Kanishk-Srivastava/Code/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2551-apply-operations-to-an-array](https://github.com/Kanishk-Srivastava/Code/tree/master/2551-apply-operations-to-an-array) |
+| [2643-row-with-maximum-ones](https://github.com/Kanishk-Srivastava/Code/tree/master/2643-row-with-maximum-ones) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Kanishk-Srivastava/Code/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Kanishk-Srivastava/Code/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2714-left-and-right-sum-differences](https://github.com/Kanishk-Srivastava/Code/tree/master/2714-left-and-right-sum-differences) |
@@ -197,6 +198,7 @@ This is just a test folder
 | [0085-maximal-rectangle](https://github.com/Kanishk-Srivastava/Code/tree/master/0085-maximal-rectangle) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Kanishk-Srivastava/Code/tree/master/0240-search-a-2d-matrix-ii) |
 | [2047-find-a-peak-element-ii](https://github.com/Kanishk-Srivastava/Code/tree/master/2047-find-a-peak-element-ii) |
+| [2643-row-with-maximum-ones](https://github.com/Kanishk-Srivastava/Code/tree/master/2643-row-with-maximum-ones) |
 ## Two Pointers
 |  |
 | ------- |
