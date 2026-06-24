@@ -70,6 +70,7 @@ This is just a test folder
 | [0876-hand-of-straights](https://github.com/Kanishk-Srivastava/Code/tree/master/0876-hand-of-straights) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Kanishk-Srivastava/Code/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0907-koko-eating-bananas](https://github.com/Kanishk-Srivastava/Code/tree/master/0907-koko-eating-bananas) |
+| [0912-sort-an-array](https://github.com/Kanishk-Srivastava/Code/tree/master/0912-sort-an-array) |
 | [0941-sort-array-by-parity](https://github.com/Kanishk-Srivastava/Code/tree/master/0941-sort-array-by-parity) |
 | [0943-sum-of-subarray-minimums](https://github.com/Kanishk-Srivastava/Code/tree/master/0943-sum-of-subarray-minimums) |
 | [0958-sort-array-by-parity-ii](https://github.com/Kanishk-Srivastava/Code/tree/master/0958-sort-array-by-parity-ii) |
@@ -192,6 +193,7 @@ This is just a test folder
 | [0215-kth-largest-element-in-an-array](https://github.com/Kanishk-Srivastava/Code/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Kanishk-Srivastava/Code/tree/master/0240-search-a-2d-matrix-ii) |
 | [0493-reverse-pairs](https://github.com/Kanishk-Srivastava/Code/tree/master/0493-reverse-pairs) |
+| [0912-sort-an-array](https://github.com/Kanishk-Srivastava/Code/tree/master/0912-sort-an-array) |
 ## Matrix
 |  |
 | ------- |
@@ -309,6 +311,7 @@ This is just a test folder
 | [0451-sort-characters-by-frequency](https://github.com/Kanishk-Srivastava/Code/tree/master/0451-sort-characters-by-frequency) |
 | [0621-task-scheduler](https://github.com/Kanishk-Srivastava/Code/tree/master/0621-task-scheduler) |
 | [0876-hand-of-straights](https://github.com/Kanishk-Srivastava/Code/tree/master/0876-hand-of-straights) |
+| [0912-sort-an-array](https://github.com/Kanishk-Srivastava/Code/tree/master/0912-sort-an-array) |
 | [0941-sort-array-by-parity](https://github.com/Kanishk-Srivastava/Code/tree/master/0941-sort-array-by-parity) |
 | [0958-sort-array-by-parity-ii](https://github.com/Kanishk-Srivastava/Code/tree/master/0958-sort-array-by-parity-ii) |
 ## Simulation
@@ -460,6 +463,7 @@ This is just a test folder
 | [0023-merge-k-sorted-lists](https://github.com/Kanishk-Srivastava/Code/tree/master/0023-merge-k-sorted-lists) |
 | [0148-sort-list](https://github.com/Kanishk-Srivastava/Code/tree/master/0148-sort-list) |
 | [0493-reverse-pairs](https://github.com/Kanishk-Srivastava/Code/tree/master/0493-reverse-pairs) |
+| [0912-sort-an-array](https://github.com/Kanishk-Srivastava/Code/tree/master/0912-sort-an-array) |
 ## Ordered Set
 |  |
 | ------- |
@@ -482,10 +486,12 @@ This is just a test folder
 | [0239-sliding-window-maximum](https://github.com/Kanishk-Srivastava/Code/tree/master/0239-sliding-window-maximum) |
 | [0451-sort-characters-by-frequency](https://github.com/Kanishk-Srivastava/Code/tree/master/0451-sort-characters-by-frequency) |
 | [0621-task-scheduler](https://github.com/Kanishk-Srivastava/Code/tree/master/0621-task-scheduler) |
+| [0912-sort-an-array](https://github.com/Kanishk-Srivastava/Code/tree/master/0912-sort-an-array) |
 ## Bucket Sort
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/Kanishk-Srivastava/Code/tree/master/0451-sort-characters-by-frequency) |
+| [0912-sort-an-array](https://github.com/Kanishk-Srivastava/Code/tree/master/0912-sort-an-array) |
 ## Linked List
 |  |
 | ------- |
@@ -590,4 +596,12 @@ This is just a test folder
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Kanishk-Srivastava/Code/tree/master/0215-kth-largest-element-in-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Kanishk-Srivastava/Code/tree/master/0912-sort-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Kanishk-Srivastava/Code/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
