@@ -8,7 +8,7 @@ public:
         int right = mid + 1; 
         int j = mid + 1;
         for(int i=low; i<=mid; i++){
-            while( j<=high && (long long) nums[i] > 2LL * nums[j]){
+            while(j<=high && nums[i] > 2*nums[j]){
                 j++; 
             }
             count += (j-(mid+1)); 
