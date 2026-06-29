@@ -15,10 +15,17 @@ public:
         ListNode* pB = headB; 
 
         while(pA != pB){
-            pA = pA ? pA -> next : headB;  
-            pB = pB ? pB -> next : headA; 
+            if(pA != nullptr) {
+                pA = pA->next;
+            } else {
+                pA = headB; 
+            }
+             if(pB != nullptr) {
+                pB = pB->next;
+            } else {
+                pB = headA; 
+            }
         }
-
         return pA; 
     }
 };
