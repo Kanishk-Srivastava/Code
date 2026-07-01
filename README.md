@@ -342,6 +342,7 @@ This is just a test folder
 | [1370-count-number-of-nice-subarrays](https://github.com/Kanishk-Srivastava/Code/tree/master/1370-count-number-of-nice-subarrays) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Kanishk-Srivastava/Code/tree/master/1477-product-of-the-last-k-numbers) |
 | [1903-largest-odd-number-in-string](https://github.com/Kanishk-Srivastava/Code/tree/master/1903-largest-odd-number-in-string) |
+| [1922-count-good-numbers](https://github.com/Kanishk-Srivastava/Code/tree/master/1922-count-good-numbers) |
 | [2032-largest-odd-number-in-string](https://github.com/Kanishk-Srivastava/Code/tree/master/2032-largest-odd-number-in-string) |
 | [2050-count-good-numbers](https://github.com/Kanishk-Srivastava/Code/tree/master/2050-count-good-numbers) |
 ## String
@@ -524,6 +525,7 @@ This is just a test folder
 | [0206-reverse-linked-list](https://github.com/Kanishk-Srivastava/Code/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/Kanishk-Srivastava/Code/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/Kanishk-Srivastava/Code/tree/master/0234-palindrome-linked-list) |
+| [1922-count-good-numbers](https://github.com/Kanishk-Srivastava/Code/tree/master/1922-count-good-numbers) |
 | [2050-count-good-numbers](https://github.com/Kanishk-Srivastava/Code/tree/master/2050-count-good-numbers) |
 ## Backtracking
 |  |
