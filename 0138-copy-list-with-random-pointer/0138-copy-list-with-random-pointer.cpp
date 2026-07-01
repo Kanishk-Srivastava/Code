@@ -5,7 +5,7 @@ public:
     int val;
     Node* next;
     Node* random;
-
+    
     Node(int _val) {
         val = _val;
         next = NULL;
@@ -17,61 +17,39 @@ public:
 class Solution {
 public:
     Node* copyRandomList(Node* head) {
-        if (!head)
-            return nullptr;
-        Node* curr = head;
+        if(!head) return nullptr; 
 
-        while (curr) {
-            Node* newNode = new Node(curr->val);
-            newNode->next = curr->next;
-            curr->next = newNode;
-            curr = curr->next->next;
+        Node* temp = head; 
+
+        while(temp){
+            Node* copyNode = new Node(temp->val); 
+            copyNode->next = temp->next;
+            temp->next = copyNode; 
+            temp = temp->next->next; 
         }
 
-        curr = head;
+        temp = head; 
 
-        while (curr) {
-            curr->next->random = (curr->random)
-                                     ? (curr->random->next)
-                                     : nullptr;
-         curr = curr->next->next;
+        while(temp){
+            Node* copyNode = temp->next; 
+            copyNode->random = temp->random ? temp->random->next : nullptr; 
+            temp = temp->next->next; 
         }
 
-        Node* newHead = head->next;
+        Node* dummyNode = head->next; 
+        temp = head; 
 
-        curr = head;
+        while(temp){
+            Node* copyNode = temp->next; 
 
-        while (curr) {
-            Node* clone = curr->next;
-            curr->next = clone->next;
-            clone->next = (clone->next) ? clone->next->next : nullptr;
-            curr = curr->next;
+            temp->next = copyNode->next; 
+            if(temp->next){
+                copyNode->next = temp->next->next;
+            } else copyNode->next = nullptr; 
+
+            temp = temp->next; 
         }
-        return newHead;
+
+        return dummyNode; 
     }
 };
-
-// class Solution {
-// public:
-//     Node* copyRandomList(Node* head) {
-//         if(!head) return nullptr;
-//         unordered_map <Node*, Node*> nodeMap;
-//         nodeMap[nullptr] = nullptr;
-//         Node* curr = head;
-//         while(curr){
-//             Node* newNode = new Node(curr->val);
-//             nodeMap[curr] = newNode;
-//             curr = curr->next;
-//         }
-
-//         curr = head;
-
-//         while(curr){
-//             nodeMap[curr]->next = nodeMap[curr->next];
-//             nodeMap[curr]->random = nodeMap[curr->random];
-//             curr = curr->next;
-//         }
-
-//         return nodeMap[head];
-//     }
-// };
