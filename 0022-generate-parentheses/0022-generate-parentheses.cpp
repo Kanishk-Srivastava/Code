@@ -1,11 +1,9 @@
 class Solution {
 public:
     vector<string> result; 
-
     vector<string> generateParenthesis(int n) {
         string curr = ""; 
         int open = 0, close = 0; 
-
         solve(curr, n, open, close); 
         return result; 
     }
@@ -28,6 +26,4 @@ public:
             curr.pop_back(); 
         }
     }
-
-    
 };
