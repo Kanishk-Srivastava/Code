@@ -1,45 +1,23 @@
-//BIT MANIPULATION
 class Solution {
 public:
-    vector<vector<int>> subsets(vector<int>& nums) {
-        vector<vector<int>> result; 
-        int n = nums.size(); 
+    void solve(int index, vector<int>& nums, vector<int>& temp,
+               vector<vector<int>>& ans){
+            if(index == nums.size()){
+                ans.push_back(temp); 
+                return; 
+            }    
 
-        for(int mask = 0; mask < (1 << n); mask++){
-            vector<int> subset; 
-            for(int i=0; i < n; i++){
-               if(mask & (1 << i)){
-                subset.push_back(nums[i]); 
-               }     
-            }
-            result.push_back(subset); 
+            solve(index+1, nums, temp, ans); 
+
+            temp.push_back(nums[index]); 
+            solve(index+1, nums, temp, ans); 
+            temp.pop_back(); 
         }
-        return result; 
+
+        vector<vector<int>> subsets(vector<int>& nums) {
+        vector<vector<int>> ans;
+        vector<int> temp;
+        solve(0, nums, temp, ans);
+        return ans; 
     }
 };
-
-/* RECURSION
-class Solution {
-public:
-    vector<vector<int>> result; 
-
-    void solve(int i, vector<int>& nums, vector<int>& temp){
-        if(i >=nums.size()){
-            result.push_back(temp); 
-            return; 
-        }
-        temp.push_back(nums[i]);
-        solve(i+1, nums, temp); 
-        temp.pop_back(); 
-        solve(i+1, nums, temp); 
-    }
-
-    vector<vector<int>> subsets(vector<int>& nums) {
-        vector<int> temp; 
-
-        solve(0, nums, temp); 
-
-        return result; 
-    }
-};
-*/ 
