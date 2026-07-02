@@ -1,25 +1,28 @@
 class Solution {
 public:
-    vector<vector<int>> combinationSum3(int k, int n) {
-        vector<int> path; 
-        vector<vector<int>> ans;
-        dfs(1, n, k, path, ans); 
-        return ans; 
-    }
 
-    void dfs(int start, int remain, int k, vector<int>& path, vector<vector<int>>& ans){
-        if(path.size() == k && remain == 0){
-            ans.push_back(path);
+    void solve(int start, int k, int n, vector<int>& temp, vector<vector<int>>& ans){
+        if(temp.size() == k){
+            if(n == 0){
+                ans.push_back(temp);
+            }
             return; 
         }
 
         for(int i=start; i<=9; i++){
-            if(i > remain) break; 
-            int pick = i; 
-            path.push_back(pick); 
-            dfs(i+1, remain - pick, k, path, ans); 
-            path.pop_back(); 
+            if(i>n) break; 
+            temp.push_back(i); 
+            solve(i+1, k, n-i, temp, ans); 
+            temp.pop_back();
         }
+    }
+
+    vector<vector<int>> combinationSum3(int k, int n) {
+        vector<vector<int>> ans; 
+        vector<int> temp; 
+
+        solve(1, k, n, temp, ans); 
+        return ans; 
 
     }
 };
