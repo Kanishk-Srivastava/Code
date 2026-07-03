@@ -1,45 +1,45 @@
 class Solution {
 public:
-    int N;
-    vector<vector<string>> result;
-    unordered_set<int> cols;
-    unordered_set<int> diags;
-    unordered_set<int> antiDiags;
 
-    vector<vector<string>> solveNQueens(int n) {
-        N = n;
-        vector<string> board(n, string(n, '.'));
+    bool isValid(vector<string>& board, int row, int col, int n){
+        // check upper rows
 
-        solve(board, 0);
+        for(int i=row-1; i>= 0; i--){
+            if(board[i][col] == 'Q') return false; 
+        }
 
-        return result;
+        // check left upper diag
+
+        for(int i=row-1, j=col-1; i>=0 && j>=0; i--, j--){
+            if(board[i][j] == 'Q') return false; 
+        }
+
+        // check right upper diag
+        for(int i=row-1, j=col+1; i>=0 && j<n; i--, j++){
+            if(board[i][j] == 'Q') return false; 
+        }
+
+        return true; 
     }
 
-    void solve(vector<string>& board, int row) {
-        if (row >= N) {
-            result.push_back(board);
-            return;
+    void solve(vector<string>& board, int n, int row, vector<vector<string>>& result){
+        if(row >= n){
+            result.push_back(board); 
+            return; 
         }
-
-        for (int col = 0; col < N; col++) {
-            int diagConst = row + col;
-            int antiConst = row - col;
-
-            if (cols.find(col) != cols.end() ||
-                diags.find(diagConst) != diags.end() ||
-                antiDiags.find(antiConst) != antiDiags.end()) {
-                continue;
+        for(int col = 0; col < n; col++){
+            if(isValid(board, row, col, n)){
+                board[row][col] = 'Q'; 
+                solve(board, n, row+1, result); 
+                board[row][col] = '.'; 
             }
-
-            cols.insert(col);
-            diags.insert(diagConst);
-            antiDiags.insert(antiConst);
-            board[row][col] = 'Q';
-            solve(board, row + 1);
-            cols.erase(col);
-            diags.erase(diagConst);
-            antiDiags.erase(antiConst);
-            board[row][col] = '.';
         }
+    }
+
+    vector<vector<string>> solveNQueens(int n) {
+        vector<vector<string>> result; 
+        vector<string> board(n, string(n, '.')); 
+        solve(board, n, 0, result);
+        return result; 
     }
 };
