@@ -1,22 +1,30 @@
 class Solution {
 public:
-    bool wordBreak(string s, vector<string>& wordDict) {
-        unordered_set<string> dict(wordDict.begin(), wordDict.end()); 
-        unordered_map<int, bool> memo; 
-        return dfs(0, s, dict, memo); 
-    }
 
-    bool dfs(int idx, string& s, unordered_set<string>& dict,   unordered_map<int, bool>& memo){
+    bool solve(int idx, string& s, unordered_set<string>& st, vector<int>& dp){
         if(idx == s.size()) return true; 
-        if(memo.count(idx)) return memo[idx];
+        if(dp[idx] != -1) return dp[idx]; 
+        for(int l=1; l<=s.size() - idx; l++){
+            string temp = s.substr(idx, l); 
+            if(st.find(temp) != st.end()){
+                if(solve(idx + l, s, st, dp)){
+                    return dp[idx] = 1; 
+                }
 
-        for(int i = idx; i <= s.size(); i++){
-            string prefix = s.substr(idx, i-idx+1); 
-            if(dict.count(prefix) && dfs(i+1, s, dict, memo)){
-                return memo[idx] = true; 
             }
         }
 
-        return memo[idx] = false; 
+        return dp[idx] = 0; 
+    }
+
+
+    bool wordBreak(string s, vector<string>& wordDict) {
+        unordered_set<string> st; 
+        vector<int> dp(s.size(), -1); 
+        for(auto& word : wordDict){
+            st.insert(word); 
+        }
+        return solve(0, s, st, dp); 
+
     }
 };
