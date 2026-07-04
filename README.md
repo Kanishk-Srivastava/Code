@@ -192,6 +192,7 @@ This is just a test folder
 | [0053-maximum-subarray](https://github.com/Kanishk-Srivastava/Code/tree/master/0053-maximum-subarray) |
 | [0148-sort-list](https://github.com/Kanishk-Srivastava/Code/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/Kanishk-Srivastava/Code/tree/master/0169-majority-element) |
+| [0191-number-of-1-bits](https://github.com/Kanishk-Srivastava/Code/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Kanishk-Srivastava/Code/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Kanishk-Srivastava/Code/tree/master/0240-search-a-2d-matrix-ii) |
 | [0493-reverse-pairs](https://github.com/Kanishk-Srivastava/Code/tree/master/0493-reverse-pairs) |
@@ -442,6 +443,7 @@ This is just a test folder
 | [0078-subsets](https://github.com/Kanishk-Srivastava/Code/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Kanishk-Srivastava/Code/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/Kanishk-Srivastava/Code/tree/master/0136-single-number) |
+| [0191-number-of-1-bits](https://github.com/Kanishk-Srivastava/Code/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/Kanishk-Srivastava/Code/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Kanishk-Srivastava/Code/tree/master/0268-missing-number) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/Kanishk-Srivastava/Code/tree/master/2323-minimum-bit-flips-to-convert-number) |
