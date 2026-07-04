@@ -1,32 +1,41 @@
 class Solution {
 public:
-    vector<string> addOperators(string num, int target) {
-        vector<string> result; 
-        backtrack(num, target, 0, 0, 0, "", result);
-        return result; 
-    }
 
-    void backtrack(string& num, long target, int idx, long total, long last, string expr, vector<string>& result){
+    void solve(string num, int target, int idx, string expr, long long currVal, long long lastVal, vector<string>& ans){
         if(idx == num.size()){
-            if(total == target){
-                result.push_back(expr);
-                return; 
+            if(currVal == target){
+                ans.push_back(expr);
             }
+            return; 
         }
 
         for(int i=idx; i<num.size(); i++){
-            if(i>idx && num[idx] == '0') break; 
+            if(i > idx && num[idx] == '0') break; 
 
-            string part = num.substr(idx, i - idx + 1); 
-            long curr = stol(part); 
+            string part  = num.substr(idx, i-idx+1); 
+            long long val = stoll(part); 
 
             if(idx == 0){
-                backtrack(num, target, i+1, curr, curr, part, result);
+                solve(num, target, i+1, part, val, val, ans); 
             } else {
-                backtrack(num, target, i+1, total + curr, curr, expr + "+" + part, result); 
-                backtrack(num, target, i+1, total - curr, -curr, expr + "-" + part, result); 
-                backtrack(num, target, i+1, total - last + last * curr , last* curr, expr + "*" + part, result); 
+                // + 
+                solve(num, target, i+1, expr + "+" + part, currVal + val, val, ans); 
+
+                //-
+                solve(num, target, i+1, expr + "-" + part, currVal - val, -val, ans); 
+
+                //* 
+                solve(num, target, i+1, expr + "*" + part, currVal - lastVal + (lastVal * val), lastVal * val, ans);
             }
+
+
         }
+    }
+
+    vector<string> addOperators(string num, int target) {
+        vector<string> ans; 
+
+        solve(num, target, 0, "", 0, 0, ans); 
+        return ans;
     }
 };
