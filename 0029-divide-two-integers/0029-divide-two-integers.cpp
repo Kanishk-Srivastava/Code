@@ -5,29 +5,27 @@ public:
             return INT_MAX; 
         }
 
-        long long a = llabs((long long) dividend); 
-        long long b = llabs((long long) divisor); 
+        long long n = llabs((long long) dividend); 
+        long long d = llabs((long long) divisor); 
 
-        long long quotient = 0; 
+        bool negative = (dividend < 0) ^ (divisor < 0); 
+        long long ans=0; 
 
-        while(a >= b){
-
-            long long temp = b; 
+        while(n >= d) { 
+            long long temp = d; 
             long long multiple = 1; 
-
-            while((temp << 1) <= a){
-                temp <<= 1; 
-                multiple <<= 1; 
+            while((temp << 1) <= n){
+                temp = temp << 1; 
+                multiple = multiple << 1; 
             }
-
-            a -= temp; 
-            quotient += multiple; 
+            n -= temp; 
+            ans += multiple; 
         }
 
-        if((dividend < 0) ^ (divisor < 0)){
-            quotient = -quotient; 
+        if(negative){
+            ans = -ans; 
         }
 
-        return (int) quotient; 
+        return (int) ans; 
     }
 };
