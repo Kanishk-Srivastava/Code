@@ -73,6 +73,7 @@ This is just a test folder
 | [0876-hand-of-straights](https://github.com/Kanishk-Srivastava/Code/tree/master/0876-hand-of-straights) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Kanishk-Srivastava/Code/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0907-koko-eating-bananas](https://github.com/Kanishk-Srivastava/Code/tree/master/0907-koko-eating-bananas) |
+| [0907-sum-of-subarray-minimums](https://github.com/Kanishk-Srivastava/Code/tree/master/0907-sum-of-subarray-minimums) |
 | [0912-sort-an-array](https://github.com/Kanishk-Srivastava/Code/tree/master/0912-sort-an-array) |
 | [0941-sort-array-by-parity](https://github.com/Kanishk-Srivastava/Code/tree/master/0941-sort-array-by-parity) |
 | [0943-sum-of-subarray-minimums](https://github.com/Kanishk-Srivastava/Code/tree/master/0943-sum-of-subarray-minimums) |
@@ -155,6 +156,7 @@ This is just a test folder
 | [0139-word-break](https://github.com/Kanishk-Srivastava/Code/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/Kanishk-Srivastava/Code/tree/master/0152-maximum-product-subarray) |
 | [0410-split-array-largest-sum](https://github.com/Kanishk-Srivastava/Code/tree/master/0410-split-array-largest-sum) |
+| [0907-sum-of-subarray-minimums](https://github.com/Kanishk-Srivastava/Code/tree/master/0907-sum-of-subarray-minimums) |
 | [0943-sum-of-subarray-minimums](https://github.com/Kanishk-Srivastava/Code/tree/master/0943-sum-of-subarray-minimums) |
 ## Greedy
 |  |
@@ -416,6 +418,7 @@ This is just a test folder
 | [0496-next-greater-element-i](https://github.com/Kanishk-Srivastava/Code/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Kanishk-Srivastava/Code/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/Kanishk-Srivastava/Code/tree/master/0735-asteroid-collision) |
+| [0907-sum-of-subarray-minimums](https://github.com/Kanishk-Srivastava/Code/tree/master/0907-sum-of-subarray-minimums) |
 | [0943-sum-of-subarray-minimums](https://github.com/Kanishk-Srivastava/Code/tree/master/0943-sum-of-subarray-minimums) |
 | [1021-remove-outermost-parentheses](https://github.com/Kanishk-Srivastava/Code/tree/master/1021-remove-outermost-parentheses) |
 | [1078-remove-outermost-parentheses](https://github.com/Kanishk-Srivastava/Code/tree/master/1078-remove-outermost-parentheses) |
@@ -582,6 +585,7 @@ This is just a test folder
 | [0402-remove-k-digits](https://github.com/Kanishk-Srivastava/Code/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/Kanishk-Srivastava/Code/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Kanishk-Srivastava/Code/tree/master/0503-next-greater-element-ii) |
+| [0907-sum-of-subarray-minimums](https://github.com/Kanishk-Srivastava/Code/tree/master/0907-sum-of-subarray-minimums) |
 | [0943-sum-of-subarray-minimums](https://github.com/Kanishk-Srivastava/Code/tree/master/0943-sum-of-subarray-minimums) |
 | [2227-sum-of-subarray-ranges](https://github.com/Kanishk-Srivastava/Code/tree/master/2227-sum-of-subarray-ranges) |
 ## Sliding Window
